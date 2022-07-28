@@ -1,4 +1,21 @@
 {
-"data" : [
-]
+    "success": true,
+    "message": "success",
+    "data": [
+        {
+            "img": "",
+            "mm": "",
+            "en": ""
+        },
+        {
+            "img": "",
+            "mm": "",
+            "en": ""
+        },
+        {
+            "img": "",
+            "mm": "",
+            "en": ""
+        }
+    ]
 }
