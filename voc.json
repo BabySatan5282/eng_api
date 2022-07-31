@@ -4,6 +4,7 @@
   "data": [
     {
       "title": "human",
+      "img" : "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/human_body.jpg",
       "vocabulary_data": [
         {
           "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
@@ -19,6 +20,7 @@
     },
     {
       "title": "trees",
+      "img" : "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/tree.jpg",
       "vocabulary_data": [
         {
           "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
