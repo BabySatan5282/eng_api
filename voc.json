@@ -1,22 +1,36 @@
 {
-    "success": true,
-    "message": "success",
-    "data": [
+  "success": "true",
+  "message": "success",
+  "data": [
+    {
+      "title": "human",
+      "vocabulary_data": [
         {
-            "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-            "mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-            "en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
+          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
         },
         {
-            "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-            "mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-            "en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-            "mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-            "en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
+          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
         }
-      
-    ]
+      ]
+    },
+    {
+      "title": "trees",
+      "vocabulary_data": [
+        {
+          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
+          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+        },
+        {
+          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
+          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+        }
+      ]
+    }
+  ]
 }
