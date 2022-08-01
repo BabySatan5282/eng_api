@@ -8,14 +8,54 @@
       "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/human_body.jpg",
       "vocabulary_data": [
         {
-          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "Cabbage.jpg",
+          "voice_en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1"
         },
         {
-          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "cauliflower.jpg",
+          "voice_en": "https://www.dropbox.com/s/r1mlckzcgl009kx/cauliflower.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/8bolvymkkhgb7n7/cauliflower%E2%80%8C_mm.wav?dl=1"
+        },
+        {
+          "photo": "lettuce.jpg",
+          "voice_en": "https://www.dropbox.com/s/4kjw6kje5tvbxg9/lettuce.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/7dpqu7mo35uwf47/lettuce_mm.wav?dl=1"
+        },
+        {
+          "photo": "broccoli.jpg",
+          "voice_en": "https://www.dropbox.com/s/45qsy8rdty1ng1t/broccoli.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/ntuxqq1ea0ijc16/broccoli_mm.mp3?dl=1"
+        },
+        {
+          "photo": "spinach.jpg",
+          "voice_en": "https://www.dropbox.com/s/zrl33x6ow8ajq97/spinach.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/uc6bl9lxpc10gjz/spinach_mm.wav?dl=1"
+        },
+        {
+          "photo": "celery.jpg",
+          "voice_en": "https://www.dropbox.com/s/gtdo6aiocnvxsof/celery.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/hc8qem3hum79l1y/crlery_mm.wav?dl=1"
+        },
+        {
+          "photo": "parsley.jpg",
+          "voice_en": "https://www.dropbox.com/s/dnzo67yljfvb11h/parsley.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/yi705basrz7kwap/parsley_mm.wav?dl=1"
+        },
+        {
+          "photo": "coriander.jpg",
+          "voice_en": "https://www.dropbox.com/s/5951j342x8fov55/coriander.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/o4xy94xr8u3esnj/coriander_mm.wav?dl=1"
+        },
+        {
+          "photo": "radish.jpg",
+          "voice_en": "https://www.dropbox.com/s/ryummws8ejrq1k2/radish.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/hw3tnnv9xrx7j06/radish_mm.wav?dl=1"
+        },
+        {
+          "photo": "carrot.jpg",
+          "voice_en": "https://www.dropbox.com/s/9zxpi3gm80kub9d/carrot.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/fv1hqpnmgx637iq/carrot_mm.wav?dl=1"
         }
       ]
     },
@@ -25,14 +65,54 @@
       "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/tree.jpg",
       "vocabulary_data": [
         {
-          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "Cabbage.jpg",
+          "voice_en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1"
         },
         {
-          "photo": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/img/FB_IMG_1656492910502.jpg",
-          "voice_en": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1"
+          "photo": "cauliflower.jpg",
+          "voice_en": "https://www.dropbox.com/s/r1mlckzcgl009kx/cauliflower.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/8bolvymkkhgb7n7/cauliflower%E2%80%8C_mm.wav?dl=1"
+        },
+        {
+          "photo": "lettuce.jpg",
+          "voice_en": "https://www.dropbox.com/s/4kjw6kje5tvbxg9/lettuce.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/7dpqu7mo35uwf47/lettuce_mm.wav?dl=1"
+        },
+        {
+          "photo": "broccoli.jpg",
+          "voice_en": "https://www.dropbox.com/s/45qsy8rdty1ng1t/broccoli.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/ntuxqq1ea0ijc16/broccoli_mm.mp3?dl=1"
+        },
+        {
+          "photo": "spinach.jpg",
+          "voice_en": "https://www.dropbox.com/s/zrl33x6ow8ajq97/spinach.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/uc6bl9lxpc10gjz/spinach_mm.wav?dl=1"
+        },
+        {
+          "photo": "celery.jpg",
+          "voice_en": "https://www.dropbox.com/s/gtdo6aiocnvxsof/celery.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/hc8qem3hum79l1y/crlery_mm.wav?dl=1"
+        },
+        {
+          "photo": "parsley.jpg",
+          "voice_en": "https://www.dropbox.com/s/dnzo67yljfvb11h/parsley.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/yi705basrz7kwap/parsley_mm.wav?dl=1"
+        },
+        {
+          "photo": "coriander.jpg",
+          "voice_en": "https://www.dropbox.com/s/5951j342x8fov55/coriander.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/o4xy94xr8u3esnj/coriander_mm.wav?dl=1"
+        },
+        {
+          "photo": "radish.jpg",
+          "voice_en": "https://www.dropbox.com/s/ryummws8ejrq1k2/radish.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/hw3tnnv9xrx7j06/radish_mm.wav?dl=1"
+        },
+        {
+          "photo": "carrot.jpg",
+          "voice_en": "https://www.dropbox.com/s/9zxpi3gm80kub9d/carrot.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/fv1hqpnmgx637iq/carrot_mm.wav?dl=1"
         }
       ]
     }
