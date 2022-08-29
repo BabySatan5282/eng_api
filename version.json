@@ -1,0 +1,13 @@
+{
+ "success" : true,
+ "message" : "success",
+ "data" : {
+  "title" : "Update Aviable",
+  "message" : "New Version Avibale!!",
+  "version_code" : 1,
+  "version_name" : 1.0,
+  "download" : "https://satanclub69.blogspot.com",
+  "playstore" : "https://play.google.com/store/apps/details?id=com.facebook.katana"
+}
+}
+
