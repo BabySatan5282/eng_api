@@ -5,7 +5,7 @@
     {
       "title_en": "Human Body",
       "title_mm": "လူခန္တာကို",
-      "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/human_body.jpg",
+      "img": "human_body.jpg",
       "vocabulary_data": [
         {
           "photo": "Cabbage.jpg",
@@ -62,7 +62,7 @@
     {
       "title_en": "trees",
       "title_mm": "အပင်များ",
-      "img": "https://raw.githubusercontent.com/BabySatan5282/eng_api/main/title_imgs/tree.jpg",
+      "img": "tree.jpg",
       "vocabulary_data": [
         {
           "photo": "Cabbage.jpg",
