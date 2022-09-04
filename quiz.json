@@ -4,12 +4,12 @@
 "data" : [
   {
     "question":
-        "Flutter is created by",
+        "Flutter is created by ..........",
     "options": ["Apple", "Google", "Facebook", "Microsoft"],
     "answer_index": 1
   },
   {
-    "question": "When google release Flutter.",
+    "question": "When google release Flutter in ........",
     "options": ["Jun 2017", "Jun 2017", "May 2017", "May 2018"],
     "answer_index": 2
   },
