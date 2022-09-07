@@ -3,116 +3,34 @@
   "message": "success",
   "data": [
     {
-      "title_en": "Human Body",
-      "title_mm": "လူခန္တာကို",
-      "img": "human_body.jpg",
-      "vocabulary_data": [
-        {
-          "photo": "Cabbage.jpg",
-          "voice_en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1"
-        },
-        {
-          "photo": "cauliflower.jpg",
-          "voice_en": "https://www.dropbox.com/s/r1mlckzcgl009kx/cauliflower.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/8bolvymkkhgb7n7/cauliflower%E2%80%8C_mm.wav?dl=1"
-        },
-        {
-          "photo": "lettuce.jpg",
-          "voice_en": "https://www.dropbox.com/s/4kjw6kje5tvbxg9/lettuce.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/7dpqu7mo35uwf47/lettuce_mm.wav?dl=1"
-        },
-        {
-          "photo": "broccoli.jpg",
-          "voice_en": "https://www.dropbox.com/s/45qsy8rdty1ng1t/broccoli.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/ntuxqq1ea0ijc16/broccoli_mm.mp3?dl=1"
-        },
-        {
-          "photo": "spinach.jpg",
-          "voice_en": "https://www.dropbox.com/s/zrl33x6ow8ajq97/spinach.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/uc6bl9lxpc10gjz/spinach_mm.wav?dl=1"
-        },
-        {
-          "photo": "celery.jpg",
-          "voice_en": "https://www.dropbox.com/s/gtdo6aiocnvxsof/celery.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/hc8qem3hum79l1y/crlery_mm.wav?dl=1"
-        },
-        {
-          "photo": "parsley.jpg",
-          "voice_en": "https://www.dropbox.com/s/dnzo67yljfvb11h/parsley.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/yi705basrz7kwap/parsley_mm.wav?dl=1"
-        },
-        {
-          "photo": "coriander.jpg",
-          "voice_en": "https://www.dropbox.com/s/5951j342x8fov55/coriander.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/o4xy94xr8u3esnj/coriander_mm.wav?dl=1"
-        },
-        {
-          "photo": "radish.jpg",
-          "voice_en": "https://www.dropbox.com/s/ryummws8ejrq1k2/radish.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/hw3tnnv9xrx7j06/radish_mm.wav?dl=1"
-        },
-        {
-          "photo": "carrot.jpg",
-          "voice_en": "https://www.dropbox.com/s/9zxpi3gm80kub9d/carrot.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/fv1hqpnmgx637iq/carrot_mm.wav?dl=1"
-        }
-      ]
-    },
-    {
       "title_en": "trees",
       "title_mm": "အပင်များ",
-      "img": "tree.jpg",
+      "img": "https://www.dropbox.com/s/n1doefpvxx7wb5i/thumbnail.jpg?dl=1",
       "vocabulary_data": [
         {
-          "photo": "Cabbage.jpg",
-          "voice_en": "https://www.dropbox.com/s/pkjtn6tvpxswjxt/Cabbage.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/y3q8ikhuhzelrcm/Cabbage_mm.mp3?dl=1"
+          "photo": "https://www.dropbox.com/s/12th63sg0usklzn/Cabbage.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/m7utz6mvvnbirzl/Cabbage.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/u1mxb8ecf0it6ia/Cabage_mm.mp3?dl=1"
         },
         {
-          "photo": "cauliflower.jpg",
-          "voice_en": "https://www.dropbox.com/s/r1mlckzcgl009kx/cauliflower.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/8bolvymkkhgb7n7/cauliflower%E2%80%8C_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/35mtyj8jkxsradi/cauliflower.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/s9jqz3ahqde5lvr/cauliflower.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/0l2e3br2vet0ji4/cauliflower_mm.wav?dl=1"
         },
         {
-          "photo": "lettuce.jpg",
-          "voice_en": "https://www.dropbox.com/s/4kjw6kje5tvbxg9/lettuce.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/7dpqu7mo35uwf47/lettuce_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/uyghib78ecdy0qc/lettuce.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/f5q0pe95zyk1q3q/lettuce.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/j0wv5dfjf0xq51w/lettuce_mm.wav?dl=1"
         },
         {
-          "photo": "broccoli.jpg",
-          "voice_en": "https://www.dropbox.com/s/45qsy8rdty1ng1t/broccoli.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/ntuxqq1ea0ijc16/broccoli_mm.mp3?dl=1"
+          "photo": "https://www.dropbox.com/s/iskskat6bmuwovh/broccoli.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/29zc29f7i093wfs/broccoli.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/jkk0htyh6wonqok/broccoli_mm.mp3?dl=1"
         },
         {
-          "photo": "spinach.jpg",
-          "voice_en": "https://www.dropbox.com/s/zrl33x6ow8ajq97/spinach.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/uc6bl9lxpc10gjz/spinach_mm.wav?dl=1"
-        },
-        {
-          "photo": "celery.jpg",
-          "voice_en": "https://www.dropbox.com/s/gtdo6aiocnvxsof/celery.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/hc8qem3hum79l1y/crlery_mm.wav?dl=1"
-        },
-        {
-          "photo": "parsley.jpg",
-          "voice_en": "https://www.dropbox.com/s/dnzo67yljfvb11h/parsley.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/yi705basrz7kwap/parsley_mm.wav?dl=1"
-        },
-        {
-          "photo": "coriander.jpg",
-          "voice_en": "https://www.dropbox.com/s/5951j342x8fov55/coriander.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/o4xy94xr8u3esnj/coriander_mm.wav?dl=1"
-        },
-        {
-          "photo": "radish.jpg",
-          "voice_en": "https://www.dropbox.com/s/ryummws8ejrq1k2/radish.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/hw3tnnv9xrx7j06/radish_mm.wav?dl=1"
-        },
-        {
-          "photo": "carrot.jpg",
-          "voice_en": "https://www.dropbox.com/s/9zxpi3gm80kub9d/carrot.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/fv1hqpnmgx637iq/carrot_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/uu3oui4oejafwgg/spinach.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/vd4toy28baogpi8/spinach.wav?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/4l2hy0h7dfglnax/spinach_mm.wav?dl=1"
         }
       ]
     }
