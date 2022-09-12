@@ -3,34 +3,69 @@
   "message": "success",
   "data": [
     {
-      "title_en": "trees",
-      "title_mm": "အပင်များ",
+      "title_en": "Fruits",
+      "title_mm": "အသီးများ",
       "img": "https://www.dropbox.com/s/n1doefpvxx7wb5i/thumbnail.jpg?dl=1",
       "vocabulary_data": [
         {
-          "photo": "https://www.dropbox.com/s/12th63sg0usklzn/Cabbage.jpg?dl=1",
-          "voice_en": "https://www.dropbox.com/s/m7utz6mvvnbirzl/Cabbage.mp3?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/u1mxb8ecf0it6ia/Cabage_mm.mp3?dl=1"
+          "photo": "https://www.dropbox.com/s/p7vjf4fip5s9taj/Apple.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/fyxqsccrm2p4rfp/Apple.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/7c8ba82yfm1am33/Apple_mm.mp3?dl=1"
         },
         {
-          "photo": "https://www.dropbox.com/s/35mtyj8jkxsradi/cauliflower.jpg?dl=1",
-          "voice_en": "https://www.dropbox.com/s/s9jqz3ahqde5lvr/cauliflower.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/0l2e3br2vet0ji4/cauliflower_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/31ojulusywch6ct/Watermalon.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/fnhtmmbcxrk17f6/Watermalon.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/bznwbbbsr5f2jo1/Watermalon_mm.mp3?dl=1"
         },
         {
-          "photo": "https://www.dropbox.com/s/uyghib78ecdy0qc/lettuce.jpg?dl=1",
-          "voice_en": "https://www.dropbox.com/s/f5q0pe95zyk1q3q/lettuce.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/j0wv5dfjf0xq51w/lettuce_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/ddr8rdzvd5uk1s7/Strawberry.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/xu8y4nlkn3cozhs/Strawberry.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/hg5cchqtpl4nixx/Strawberry_mm.mp3?dl=1"
         },
         {
-          "photo": "https://www.dropbox.com/s/iskskat6bmuwovh/broccoli.jpg?dl=1",
-          "voice_en": "https://www.dropbox.com/s/29zc29f7i093wfs/broccoli.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/jkk0htyh6wonqok/broccoli_mm.mp3?dl=1"
+          "photo": "https://www.dropbox.com/s/i99pgcwmjprh8vn/Orange.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/hyuwj31vgpizslk/Orange.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/na08xfarfobgoc1/Orange_mm.mp3?dl=1"
         },
         {
-          "photo": "https://www.dropbox.com/s/uu3oui4oejafwgg/spinach.jpg?dl=1",
-          "voice_en": "https://www.dropbox.com/s/vd4toy28baogpi8/spinach.wav?dl=1",
-          "voice_mm": "https://www.dropbox.com/s/4l2hy0h7dfglnax/spinach_mm.wav?dl=1"
+          "photo": "https://www.dropbox.com/s/j7zg93uy1a8k1l4/Banana.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/tv9hawrsmw90ku8/Banana.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/p5smuahwk3v1fsi/Banana_mm.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/raleax83ryb5s28/Pineapple.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/429fr62p78w0k40/Pineapple.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/61fexvuq9trn7bb/Pineapple_mm.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/22funittxoex4a2/Grape.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/3nbpbfx0jw16i3n/Grape.mp3?dl=0",
+          "voice_mm": "https://www.dropbox.com/s/fyye5w1bsukyq97/Grape_mm.mp3?dl=0"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/vnjobue3q8bvv0i/Plum.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/jfj9kurz0wl0mmg/Plum.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/u9doz2zy3rv4ife/Plum_mm.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/ungx4fypcv2wojt/Avocado.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/0rdkilrfadp5387/Avocado_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/u4f4v75ej437ql0/Avocado.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/dpntr6rupzjph00/Fig.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/e1pab3yk1x32ziq/Fig.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/35u0vmd6kgzsdvz/Fig_mm.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/9fe9gjb7thyeht4/Lime.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/3filh0kis1qthqw/Lime.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/coq0wbsd3pug7w9/Lime_mm.mp3?dl=1"
+        },
+        {
+          "photo": "https://www.dropbox.com/s/sht440x78vukzmo/Cherry.jpg.jpg?dl=1",
+          "voice_en": "https://www.dropbox.com/s/9hfj48dqx83m74h/Cherry_mm.mp3?dl=1",
+          "voice_mm": "https://www.dropbox.com/s/f2pzh1mi7n7vf6g/Cherry.mp3?dl=1"
         }
       ]
     }
