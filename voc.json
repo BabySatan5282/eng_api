@@ -128,7 +128,7 @@
     "voice_mm": "https://www.dropbox.com/s/4io390ga2bjoh23/Farmer_mm.MP3?dl=1"
   }
 ]
-    },
+   },
     {
   "title_en": "City",
   "title_mm": "မြို့",
@@ -328,6 +328,98 @@
       "photo": "https://www.dropbox.com/s/qz9580rm6scujqn/Sidewalk.jpg?dl=1",
       "voice_en": "https://www.dropbox.com/s/k34ppd6m1y1xd1x/Sidewalk.mp3?dl=1",
       "voice_mm": "https://www.dropbox.com/s/2bpng0ur95i17o3/Sidewalk_mm.mp3?dl=1"
+    }
+  ]
+},
+    {
+  "title_en": "Cooking",
+  "title_mm": "ချက်ပြုတ်ခြင်း",
+  "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+  "vocabulary_data": [
+    {
+      "photo": "https://www.dropbox.com/s/cj05cz218f8cymw/1.Roll.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/pa4z946twkt8sk9/Roll.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/u9jzwtzfljaqbup/Roll_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/0qgglfx49gbf7ro/2.Boil.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/euno6fwse4fjvdf/Boil.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/vn4sz3ahlcgmwog/Boil_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/j7f9191vluokh64/Fry.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/s2ce5th02ebzu40/Fry.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/5c2ztrfu4rq8q4f/Fry_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/l2tpznag9lttump/Bake.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/35ayujftbwu1vza/Bake.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/al56qlb1omjs0dt/Bake_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/oz1gkkcg5w1q2im/Grill.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/u6u4myedrdza31h/Grill.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/ogced8l0p4jyu3m/Grill_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/bdsryxhg16mcja0/Steam.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/vxr0s9x4vz1m2e3/Steam.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/of65tx0e7vb3nf5/Steam_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/eupdq3pwoz8r5d2/Chop.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/vluqfllv5dv7nzj/Chop.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/i3s3oopn5bzqcn8/Chop_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ol9stsr7ezgkpic/Slice.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wnwqi749qbz8kcx/Slice.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/yf5k3enh8ibismg/Slice_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/w2rfi1yobuijpzj/Cut.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/tz0o58jeqcxznha/Cut.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bk24oc6i9sarbzj/Cut_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/1nc766rekw93qbx/Beat.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/4prncsouq3v53fy/Beat.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/oc5simwnhktxl00/Beat_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/bw0bmub740wf7xp/Break.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/a8g4gkbfuuhap7c/Break.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/whczwth928fknnx/Break_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5kab11yepkncgwo/Carve.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/qphx4yeenzin21k/Carve.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bcb62grr6m6thgg/Carve_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5b3iu8l1bog1fe8/Peel.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/0lh4mujgpzrvk3t/Peel.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/r324na6k3p3dwwj/Peel_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/fak9xjxowyhf4xs/Pour.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/yfq1aeiaw4pphzy/Pour.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/0zpdphoyj1tuprm/Pour_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/b1s81ujl062timh/Open.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wtpvvihw4bwsmoe/Open.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/6o5zi2lx2k95idc/Open_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/w3rw4n2cjijtdno/Grate.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/cpymsgoti81hwa2/Grate.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/jt0ujdghc8pgmt2/Grate_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5n7c58u128k7por/Stir.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/khnb781kuvda30b/Stir.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/a9ok7ukotrigsmy/Stir_mm.mp3?dl=1"
     }
   ]
 },
