@@ -3,6 +3,133 @@
   "message": "success",
   "data": [
     {
+      "title_en": "Basement",
+      "title_mm": "မြေအောက်ခန်း",
+      "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+      "vocabulary_data": [
+  {
+    "photo": "https://www.dropbox.com/s/742sxkpscp2lt3b/Washing%20machine.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/ot0lvnur3u3vbbn/Washing%20Machine.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/9fo5du806hl9hro/Washing%20Machine_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/aytuqsmxh9kasmr/Plug.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/u65dypjn4pss7ej/Plug.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/qsm79bfbj52wq75/Plug_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/x7rej56j2i3irio/Socket.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/fcobuzy4amff24y/Socket.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/k3k5yajwtokt8jy/Socket_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/nd0ig8i2cx4b3mb/Soap%20Powder.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/3tkpsxf08qsazlw/Soap%20Powder.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/lji74bgimccwoi5/Soap%20Powder_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/698kct35r9jkqn7/Bleach.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/iqgeoona2k509b2/Bleach.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/62dgy9qvq6i88c0/Bleach_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/73icpz588vrc06o/Laundry.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/x38rvzqxcrfhk4y/Laundry.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/yjk8r6m5k0nvxa4/Laundry_mm.mp3?dl=1  "
+  },
+  {
+    "photo": "https://www.dropbox.com/s/i5fjgto6yg6yor4/Clothes-line.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/elotn1l79yg8xwm/Clothes-line.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/3li1294jsdrt3o1/Clothes-line_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/0yqezsll4cfd1ch/Clothes-peg.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/bkf3a6nn56aw8ps/Clothes-peg.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/3er9eggmub9gqih/Clothes-peg_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/ki9jnfx3895pkj4/Vaccum%20Cleaner.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/b5r8q8ghbo22eqd/Vaccum%20Cleaner.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/qlt45rzh4fi8ld9/Vaccum%20Cleaner_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/egdythb3bdksc6d/Ironing%20Board.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/9rqhvd7494fg9jj/Ironing%20Board.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/9b4qqg8h9amfqlj/Ironing%20Board_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/qrfn2xt8yxrlp7u/Iron.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/aevz138y284chf6/Iron.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/hpatwfqxzmfyhvc/Iron_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/j4sjzydtlwrxsfi/Mop.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/17sphxtwfozyhve/Mop.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/4mu6kbgizz97585/Mop_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/5j3sf6rw2cggbgl/Bucket.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/8xjke6kemg00dvq/Bucket.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/2xwyfms2ki8hmmz/Bucket_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/ji58ci8foivm667/Broom.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/y4b4250b8xvg9sx/Broom.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/1v52p3tyteqm6fz/Broom_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/gezy7w4zrwcngdy/Dustpan.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/kbx55atlemsp048/Dustpan.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/tv2df4ecyexq8ss/Dustpan_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/d6hiixg3e0fknbe/Water%20Heater.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/fsggesyjt4b3qcu/Water%20Heater.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/qk6czzrbq1ozd7k/Water%20Heater_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/qukfna3opmkavqw/Work-bench.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/dorffxzics0yhfn/Work-bench.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/gqlujys0wd499iw/Work-bench_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/rdsq8zivitm9dek/Ladder.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/vsbj81euvaoaegv/Ladder.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/mk0rlel95urjrwh/Ladder_mm.mp3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/cq7kfpcepwvu647/Paint%20Brush.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/wwwgv5jderqppxn/Paint%20Brush.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/j3eenp6feq4hl38/Paint%20Brush_mm.MP3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/qjwyrecrndjswln/Paint.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/i3qlz6kd73t71gb/Paint.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/z7g75oaowkqdomv/Paint_mm.MP3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/pdi5i6xtfwndxsj/Sandpaper.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/gwxn5r2inu1njhf/Sandpaper.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/i18tkjff4oebdhn/Sandpaper_mm.MP3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/el9e5dl2koa624j/Water%20Meter.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/fclwpsxnnyi00k7/Water%20Meter.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/73iqloil3dnzfkt/Water%20Meter_mm.MP3?dl=1  "
+  },
+  {
+    "photo": "https://www.dropbox.com/s/85v8vlj74v992dd/Electric%20Meter.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/tp34t5skqwv8p3c/Electric%20Meter.mp3?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/33k7jkmpgyjih9j/Electric%20meter_mm.MP3?dl=1"
+  },
+  {
+    "photo": "https://www.dropbox.com/s/xvsxgo5qrlvrt3n/Farmer.jpg?dl=1",
+    "voice_en": "https://www.dropbox.com/s/xvsxgo5qrlvrt3n/Farmer.jpg?dl=1",
+    "voice_mm": "https://www.dropbox.com/s/4io390ga2bjoh23/Farmer_mm.MP3?dl=1"
+  }
+]
+    },
+    {
       "title_en": "Fruits",
       "title_mm": "အသီးများ",
       "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
