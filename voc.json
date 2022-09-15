@@ -130,6 +130,208 @@
 ]
     },
     {
+  "title_en": "City",
+  "title_mm": "မြို့",
+  "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+  "vocabulary_data": [
+    {
+      "photo": "https://www.dropbox.com/s/x8sm8pznvfydbuk/College.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/snj9p5u3mydabeh/College.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/13o1i3ijvrnqrqb/College_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/fl8122i0ddcmnaz/High%20school.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ngootry54ohdtpi/High%20school.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/nfgge9r66f73k9l/High%20school_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wugmmsgafulzh0h/Playground.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/8ox21pw0q8z2ctj/Playground.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/ep9azgrsjov9mec/Playground_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/lln251f4rb3eqcc/School.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/3e7b3vaygg5nokl/School.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/8c2c03nscozh57q/School_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/hscdok7l5pwe4wz/Library.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/qbp9rol2vv02sj5/Library.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/8lde322a1u45o91/Library_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/24p8ovfnshr07o9/Museum.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/araj0zxqmc6ac6v/Museum.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1oequhcxq30ji5h/Museum_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/dagg0ixhkkd2v66/Hospital.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/cb1tssavya9nnfi/Hospital.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/b8cuv5zkw65mgmb/Hospital_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/xffhcvebuym7kj2/Jail.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/iay99f04y5z7oxl/Jail.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/xi7jgfbgucla70z/Jail_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/8ozzo89lcajcwyi/Police%20station.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/iycbj3f90mlzgh2/Police%20station.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/snx5z4byn1giadn/Police%20station_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/8hr5p7p6xh9ajiq/Gas%20station.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/gzer2rt2l7sdxok/Gas%20station.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bilmscl1j37mcit/Gas%20station_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/tb0p2szfus12fy0/Mailbox.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/fsfdjzxkan1r19h/Mailbox.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/h3di73v3xowpehj/Mailbox_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/cx0t2prxpwa1iif/Street%20sign.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/tewtsd41ohq73xp/Street%20sign.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/cfe54ew8wt2hm0o/Street%20sign_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/64skwfjdlkcujk2/Intersection.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/p9oa8e7igl7f5rr/Intersection.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/s56svjq7rwop9jh/Intersection_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/z4vczwyq8ngehl8/Crosswalk.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/fls8dnsi6xr44nc/Crosswalk.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/71lhcv8ljvf0o5n/Crosswalk_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/y1bjmhp0f7f67dh/Pedestrian.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/dwkjvt4ag03ucik/Pedestrian.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/fh74j96uc0skg05/Pedestrian_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/2owsdauchzh6dg7/Traffic%20light.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/iije5xp0eepdify/Traffic%20light.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/ph7e1je4uwp4n23/Traffic%20light_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/dy9j3e2snuayfkg/Parking%20garage.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/kwq4a4y5sx761ra/Parking%20garage.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/uob64z947z9n4jc/Parking%20garage_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/6ycezrjqsld1au5/Apartment%20building.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/tdgfkeylydduheb/Apartment%20building.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/ska90gq4wucowd3/Apartment%20building_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/47r2ph2nor30cg0/Park.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/u49wwv3n7i839df/Park.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/owe2k2vy8y18ped/Park_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/8s8l84ijru5961k/Train%20station.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/nmvz3u99ga6sahh/Train%20station.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/pwofhg4ml9aes4e/Train%20station_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/vm74emt0yn4v9f7/Office%20building.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/d533vphu7o9en80/Office%20building.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/i57z0sq9rhevvqf/Office%20building_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/b2weeh2vk08i0jp/Airport.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wxucb7n4qesnr5z/Airport.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/p5xhj8mmge84o61/Airport_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/czno9ikym8gemtq/Taxi%20stand.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/i4kv58isisq6fyh/Taxi%20stand.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1swlqzbqorovz7k/Taxi%20stand_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/coow4z8yk10bc72/Bus%20stop.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/dzq1pvej633bynh/Bus%20stop.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/fv9aog6wetjvopk/Bus%20stop_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/2d4atbopm7wxsk8/Bus%20station.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/34a6e1caa6hwijn/Bus%20station.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/z1aof07jcefo5bt/Bus%20station_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/t5vm824atxfop8n/Rest-house.mp3?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ogzfqp7kftv2kw2/Rest-house.jpg?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/cbqr7itizlmb59e/Rest-house_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ac90ys6cg1bjzk1/Pandal.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ac90ys6cg1bjzk1/Pandal.jpg?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/015oukp3u8kxwj4/Pandal_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5xewsg601j1xrdz/Chapel.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wn0a9ddijhyk2zw/Chapel.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/r7wq1tfnxbrpty3/Chapel_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ubgj5l147cu16cx/Monastery.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/mhv42t9i372chdb/Monastery.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/4tg2fzkt5cvgdee/Monastery_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/77apvzvt5js1mqo/Stupa.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/k1xrxgwmhlwbnct/Stupa.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/8h1h11ss11907kt/Stupa_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/f2966j6fypmlfat/Synagogue.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/upu1sq3wq5kn5i6/Synagogue.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/swgjt3919u83mx4/Synagogue_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/j5ifu2syvhkn6t7/Mosque.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/q16bhv3ytfzm5yr/Mosque.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/c00iikjoxm08lyx/Mosque_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/0sh3taxka56rxn1/Temple.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/w91u5cajgflr53n/Temple.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1i9bopzihbobpyj/Temple_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/c3fk35q0z3k371w/Church.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/zbagg5ew60wwst6/Church.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/6er49u5nask5161/Church_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/cjy8zdtzjgny99m/Pagoda.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/12efrbghfv881q1/Pagoda.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/2imd7qto7866j5n/Pagoda_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/j0il70bzkybhrgy/Supermarket.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/3gzh5prq7kr0i7x/Supermarket.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bjt46ia0bd1xgvg/Supermarket_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wzxks2vh9iw2b14/Stores.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/yvt8gia98azjtd6/Stores.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/qdag9cqasjn28mf/Stores_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/xzelkj7jvtg67mh/Shops.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/88dmlzxkk13cowg/Shops.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/zn9ereoftxiajij/Shops_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/qz9580rm6scujqn/Sidewalk.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/k34ppd6m1y1xd1x/Sidewalk.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/2bpng0ur95i17o3/Sidewalk_mm.mp3?dl=1"
+    }
+  ]
+},
+    {
       "title_en": "Fruits",
       "title_mm": "အသီးများ",
       "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
