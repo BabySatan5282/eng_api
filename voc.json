@@ -5,7 +5,7 @@
     {
       "title_en": "Basement",
       "title_mm": "မြေအောက်ခန်း",
-      "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+      "img": "https://www.dropbox.com/s/sngvm53vtonz58h/thumbnail.png?dl=1",
       "vocabulary_data": [
   {
     "photo": "https://www.dropbox.com/s/742sxkpscp2lt3b/Washing%20machine.jpg?dl=1",
@@ -132,7 +132,7 @@
     {
   "title_en": "City",
   "title_mm": "မြို့",
-  "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+  "img": "https://www.dropbox.com/s/g9hd39hjz4h018x/thumbnail.png?dl=1",
   "vocabulary_data": [
     {
       "photo": "https://www.dropbox.com/s/x8sm8pznvfydbuk/College.jpg?dl=1",
@@ -334,7 +334,7 @@
     {
   "title_en": "Cooking",
   "title_mm": "ချက်ပြုတ်ခြင်း",
-  "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+  "img": "https://www.dropbox.com/s/r9n4mg2fvf4jy2y/thumbnail.png?dl=1",
   "vocabulary_data": [
     {
       "photo": "https://www.dropbox.com/s/cj05cz218f8cymw/1.Roll.jpg?dl=1",
@@ -426,7 +426,7 @@
     {
   "title_en": "Dining room",
   "title_mm": "ထမင်းစားခန်း",
-  "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+  "img": "https://www.dropbox.com/s/l2rjwjnzm5k2w78/thumbnail.png?dl=1",
   "vocabulary_data": [
     {
       "photo": "https://www.dropbox.com/s/s7lsnmoaewoqj1t/Spoon.jpg?dl=1",
@@ -582,8 +582,8 @@
 },
     {
       "title_en": "Fruits",
-      "title_mm": "အသီးများ",
-      "img": "https://www.dropbox.com/s/l5bkk5fftcykgbb/Thumbnail.png?dl=1",
+      "title_mm": "အသီးအနှံများ",
+      "img": "https://www.dropbox.com/s/de9nrdzazwwy9t5/thumbnail.png?dl=1",
       "vocabulary_data": [
         {
           "photo": "https://www.dropbox.com/s/p7vjf4fip5s9taj/Apple.jpg?dl=1",
@@ -801,6 +801,83 @@
           "voice_mm": "https://www.dropbox.com/s/adnq2dfflhz08p4/Betel%20nut_mm.mp3?dl=1"
         }
       ]
+    },
+    {
+  "title_en": "Girl clothing",
+  "title_mm": "မိန်းကလေးအ၀တ်ထည်များ",
+  "img": "https://www.dropbox.com/s/m7c2o1qapnnf2qt/3515028.png?dl=1",
+  "vocabulary_data": [
+    {
+      "photo": "https://www.dropbox.com/s/u7jwu72h6snadta/Pants.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/yh7895j343yha9h/Pants.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bz0d8hsst0z3poz/Pants_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/zyfrdqdfw4pwe4k/Brassiere.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/rm1rcqq0cpegv8p/Brassiere.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1zbkfl798tjpyna/Brassiere_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/67595d54pgrizqx/Vest.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/x1bcmza2g79e17u/Vest.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/k6kgaf1tofa6yys/Vest_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/yhelv9jgrf2as5z/Tights.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/8oth31un1g49uur/Tights.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/pn6c42qpotac9pa/Tights_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/m1af9wtlgaaozrw/Cardigan.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/29ju25emr4ezgws/Cardigan.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/9oakt8o3f12y3s8/Cardigan_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wcpxo0hcv7o8ym9/Dress.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ibfq14iueccrjxg/Dress.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/crf84vxt31eg5v5/Dress_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/br64lsbdxdxzncs/Nightdress.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/cfmi1tye09y4wxa/Nightdress.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/vna27zj72xwfynx/Nightdress_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/r9zjqb6ip67qgbg/Socks.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/hz1yd6t05jdi2gr/Socks.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/naqvy7dsobyyq23/Socks_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wt3ezydteryc92t/Skirt.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/lu4fnsnwvbp2k9j/Skirt.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/qpzrhroopuqdeq0/Skirt_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wkxm9i3ve9me7dp/Blouse.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/kd7x27fzkd3e0a6/Blouse.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/i75nlfmgntflsug/Blouse_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/snerwsnqdf1eo84/Hair-clip.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/l321vskp39ez0rm/Hair-clip.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/yvbilhd6dyzoh1d/Hair-clip_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/x0bc89q2khafd2s/High-heel%20shoes.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/u21agd92ofmqnu3/High-heel%20shoes.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/vjq0ohc4nf1dcje/High-heel%20shoes_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/eavk9flwid5qbzf/Hand-bag.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/xjnloit2g9pkoml/Hand-bag.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/2fs0idzkncxg3zx/Hand-bag_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/13w32aqcr942adf/Suit.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/p7uphkyf7gel5im/Suit.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/6bqyld2zvknq8eh/Suit_mm.mp3?dl=1"
     }
-  ]
+   ]
+  }
+ ]
 }
