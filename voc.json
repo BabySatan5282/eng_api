@@ -804,7 +804,7 @@
     },
     {
   "title_en": "Girl clothing",
-  "title_mm": "မိန်းကလေးအ၀တ်ထည်များ",
+  "title_mm": "မိန်းကလေးအ၀တ်ထည်",
   "img": "https://www.dropbox.com/s/m7c2o1qapnnf2qt/3515028.png?dl=1",
   "vocabulary_data": [
     {
@@ -1043,7 +1043,7 @@
 },
     {
   "title_en": "Housework",
-  "title_mm": "အိမ်စာ",
+  "title_mm": "အိမ်အလုပ်",
   "img": "https://www.dropbox.com/s/h3rq9ouq1u940ws/3264753.png?dl=1",
   "vocabulary_data": [
     {
@@ -1205,6 +1205,108 @@
       "photo": "https://www.dropbox.com/s/97u6knr0n3a1fm6/Wash.jpg?dl=1",
       "voice_en": "https://www.dropbox.com/s/eab4z6op8knel93/Wash.mp3?dl=1",
       "voice_mm": "https://www.dropbox.com/s/g4793aus23ytn6p/Wash_mm.mp3?dl=1"
+    }
+  ]
+},
+    {
+  "title_en": "Housing",
+  "title_mm": "အိမ်ရာ",
+  "img": "https://www.dropbox.com/s/3um47vw2z8bqp12/1018575.png?dl=1",
+  "vocabulary_data": [
+    {
+      "photo": "https://www.dropbox.com/s/axthf0819wjxtim/Mansion.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/39d5lumxnqpc1dg/Mansion.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/71hzh1fagv406gl/Mansion_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/zenmh6s1expjizg/Lamp%20Post.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ic4lbzf2wfejm28/Lamp%20Post.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/sjq5v4zf435wei0/Lamp%20post_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/97m35j01rqhsvoe/Driveaway.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/qof6r7l8snxo9wt/Driveaway.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/7pqqhzd7d9i37av/Driveaway_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/psij4mkuyp5rusb/Swimming%20Pool.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ibi1ekcs3r3kdlt/Swimming%20Pool.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/h8rb2su0pr81dad/Swimming%20Pool_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/cka6u0z1vabfka6/Apartment%20Building.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/3vf5m3o8jkf714m/Apartment%20Building.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/cnyvkgfyhnch116/Apartment%20Building_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/brp25lxtv5sx6qc/Condominium.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wwntleixpnvr7vr/Condominium.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/536dkuxqygwhixg/Condominium_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wyx4qpbwexjw4fs/Balcony.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/pgiqdypoykz09jl/Balcony.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1fl4r6vkyu71yf9/Balcony_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/kqllj0wbcimqug6/Parking%20Place.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/hfkxd3jnnls06ti/Parking%20Place.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/bmwjglpcr735sta/Parking%20place_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/9ho9v2x5n5al4fi/Function%20Room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/jsjl8xfwgfdloxy/Function%20Room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/3sg4fhxuaoh62yh/Function%20Room_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/tmydu6r0b2kh2af/Townhouse.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/j1u63e3ur1egory/Townhouse.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/ziap3aiswdkwvq5/Townhouse_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/kibkcwz74jp8z8h/Street.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ypza56jtmdq2exl/Street.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/g5brubeq9g5ovdj/Street_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/6937iqebsmcjies/Sidewalk.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/2c8qz2uug7hqnz4/Sidewalk.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/54hkfjemstxvc61/Sidewalk_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/0b6a0igdrupn4qs/Adobe%20House.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/88zx4443fulocrj/Adobe%20House.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/f06o29kk13knrwj/Adobe%20House_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5jupo9d2xkzefda/Mailbox.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/qwtvt3folk1kgsy/Mailbox.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/i4gshaw8cud8nrv/Mailbox_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/8n1gmcwyd1zmxml/Colonial%20House.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/xs3q35qd46ct3up/Colonial%20House.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/vu6kxmgtc899sz9/Colonial%20House_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/udvi631bkz5cqqd/Lawn.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/1auvfk6nnpodwwc/Lawn.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/7ndrx3xs4n58utt/Lawn_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5cjmfenm6cblx3g/Ranch%20House.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/s1ny4rk60ljum0o/Ranch%20House.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/i66k8upeua0xhch/Ranch%20House_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/41fpuislw287zvb/Fence.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/kv130pegwnovxem/Fence.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/y4k4s4z3g11daf6/Fence_mm.MP3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/z43ossscgnfbk5l/Mobile%20Home.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/8c79o2fpumwlfgf/Mobile%20Home.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/04awc2x8mian6sg/Mobile%20Home_mm.MP3?dl=1"
     }
   ]
 }
