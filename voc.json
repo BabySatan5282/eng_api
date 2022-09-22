@@ -878,6 +878,168 @@
       "voice_mm": "https://www.dropbox.com/s/6bqyld2zvknq8eh/Suit_mm.mp3?dl=1"
     }
    ]
-  }
+  },
+    {
+  "title_en": "Home",
+  "title_mm": "အိမ်",
+  "img": "https://www.dropbox.com/s/q8cq2boghbrc0zw/619032.png?dl=1",
+  "vocabulary_data": [
+    {
+      "photo": "https://www.dropbox.com/s/rjmowt8e2m8t8wb/Hall.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/kzdrm25cbza8ra8/Hall.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/qsmpukqkxrh7mds/Hall_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ipg6f5koyf1n12p/Closet.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/bnyj8j3t39s8g49/Closet.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/dz6ny4fpmm8x35n/Closet_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/6ik1f0co9drvfzl/Tool%20room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/b7rh4edpxnys4d6/Tool%20room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/f93fdt81crpkrdh/Tool%20room_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/o771mmg3s86obql/Laundry%20room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/inlpzplacu3ypi1/Laundry%20room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/e6i4siqcvq5fxyp/Laundry%20room_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/tttgsvr2ikii9a5/Bathroom.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ly3o8gnxx3gd96j/Bathroom.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/tbsz8x9g4fvdbkk/Bathroom_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/a6ngzc49763n3yp/Nursery.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/tioovsmfaw0utxe/Nursery.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/rykeu4xcbi62flo/Nursery_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/2p661on915x10r0/Bedroom.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/n7cnmep2h4ij1kl/Bedroom.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/n7cnmep2h4ij1kl/Bedroom.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/bfpsdfunvuiluq2/Family%20room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/4z7ee3vx1cjj45e/Family%20room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/iw6lylfuzcra1fo/Family%20room_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/xwmjm64j414blun/Kitchen.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/g732i0bpu0xtaa0/Kitchen.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/vpu99x6s6meb3o3/Kitchen_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ognqm7e3ap8f32m/Dining%20room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/8jo0eubyex6gkwm/Dining%20room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/xk68oqfsmvlandz/Dining%20room_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/aayge7n50ds4k5v/Living%20room.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/4n4guqdf7at9z30/Living%20room.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/asqp6fe15abol4i/Living%20room_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5njbotaj6wbafam/Stair.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/jcfcxapx6ft02iw/Stair.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/swumlvxd2qem5jg/Stair_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/dxivt2co72q9nh5/Floor.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ui7tiq9ecgdmnol/Floor.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/d4moqeq28d8hv97/Floor_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/na3njru2z9uwx0a/Basement.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/64d4g9alxuj3ndn/Basement.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/2h412lgpoxtlctz/Basement_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/01g7dkg0r19qxwo/Attic.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/vws4ikwv09vf7n7/Attic.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/jm0nen3gt67fddt/Attic_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/b9m6lm18i6rojo0/Window.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/utbsoi0vd732u2m/Window.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/dtakgy699tmqnsc/Window_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/wn2aom85tsxfk50/Shutter.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/r8yv83rb7nloynl/Shutter.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/zqe74nuk2j9kjuc/Shutter_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/5q5jinr1anqbtc2/Antenna.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/x0wdpukbk7e12vu/Antenna.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/hvdm0egjsnavseb/Antenna_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/ny3ar1ykj3ixzyb/Chimney.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/je1c9ervvy5hqpu/Chimney.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/s8eskp1ryg0y1xe/Chimney_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/1fpkp8u1v7aq4yt/Roof.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/qb8zxk6ls47hvl9/Roof.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/4n3yubygd0xcr8d/Roof_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/b2oq1wr6fzxboee/Porch.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/wyzx7kc54d875a0/Porch.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/1bvbj4ilnw71mmq/Porch_mm.mp3?dl=1"
+    },
+
+     {
+      "photo": "https://www.dropbox.com/s/cu91wk6g21b07jk/Garage.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/2m6p3x8jkk9svvo/Garage.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/3i39kq8zuw852na/Garage_mm.mp3?dl=1"
+    }, {
+      "photo": "https://www.dropbox.com/s/ld0l2xx7pn5wu8l/Driveway.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/cdlv1jfjfsgq5eb/Driveway.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/sgn2r4agzsb7797/Driveway_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/pxp6mx6275b1hrn/Street.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ospfz7o1esdpggd/Street.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/sl3g05voddq1dl4/Street_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/71j64og55si1s5w/Sidewalk.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/kg4ra3h9f0kohxz/Sidewalk.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/dom97hmyqz6cuct/Sidewalk_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/4nem3vypqwek2gk/Fence.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/pft71b44ga99ndh/Fence.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/fockab5tqx2jgan/Fence_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/qcd7spkaunyytb2/Gate.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/hnhv8rcmyk51180/Gate.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/eaafbw27rglfak4/Gate_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/yzkhmjw3f3kmn87/Yard.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/9oguwtut8avg1jm/Yard.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/sotjjs2igr1y3ap/Yard_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/27rot02s8mzcovz/Steps.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/ajw1r297h63nlov/Steps.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/f9obu9ckr2p1cvu/Steps_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/snamr92sg4qlpe8/Doorbell.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/jbxcv43741ua5rv/Doorbell.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/uo9qoa601zpyhyt/Doorbell_mm.mp3?dl=1"
+    },
+    {
+      "photo": "https://www.dropbox.com/s/c475fwye2rscecp/Door.jpg?dl=1",
+      "voice_en": "https://www.dropbox.com/s/3djytnmu0vcszi3/Door.mp3?dl=1",
+      "voice_mm": "https://www.dropbox.com/s/wiesjyatudi4cmv/Door_mm.mp3?dl=1"
+    }
+  ]
+}
  ]
 }
