@@ -1885,7 +1885,7 @@
                     "voice_mm": "https://www.dropbox.com/s/k7hod6c6tb7mwr8/Coat%20rack_mm.mp3?dl=1"
                 },
                 {
-                    "photo": "https://www.dropbox.com/s/7m1g854nd83jvjg/Air%20conditioner.jpg?dl=0",
+                    "photo": "https://www.dropbox.com/s/7m1g854nd83jvjg/Air%20conditioner.jpg?dl=1",
                     "voice_en": "https://www.dropbox.com/s/7d46s9koj5b4qfe/Air%20conditioner%20.mp3?dl=1",
                     "voice_mm": "https://www.dropbox.com/s/9vgmlp09nyqs0xq/Air%20conditioner%20_mm.mp3?dl=1"
                 },
@@ -2468,6 +2468,1218 @@
                     "photo": "https://www.dropbox.com/s/r7mzbndujvjfboc/Tricycle.jpg?dl=1",
                     "voice_en": "https://www.dropbox.com/s/8s8apcdhzvw6ucg/Tricycle.mp3?dl=1",
                     "voice_mm": "https://www.dropbox.com/s/8s8apcdhzvw6ucg/Tricycle.mp3?dl=1"
+                }
+            ]
+        },
+        {
+            "title_en": "Shopping Center",
+            "title_mm": "ဈေးဝယ်စင်တာ",
+            "img": "https://www.dropbox.com/s/5b6kxhlsg8oama3/5900478.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/ch0mq5w7s6iemvy/Hardware%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/nd8u57fnngnef2l/Hardware%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/zlnhbq4gwyg4d0c/Hardware%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xfa1haiof88vr2v/Hairdresser_s%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/y0x7p427z1r2l7e/Hairdresser_s%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/30qddbzuckktj7p/Hairdresser_s%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/lec5m8mrmhngu2w/Ice-cream%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/cm4udfeqoepolt9/Ice-cream%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/x2eyiwzqibwdkly/Ice-cream%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xni1x0lereqjapq/Pharmacy.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xzd3n8t3u1ioc8t/Pharmacy.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ka7iscl6c08bn98/Pharmacy_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2equs7uhikx5667/Supermarket.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/wsiqe17lsgkd2nh/Supermarket.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/w2hn8s120sp89yw/Supermarket_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zs18rjqkjxotjad/Restaurant.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/j98dnenn211pwjz/Restaurant.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/olanxhv1h7dalx0/Restaurant_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/mizz8vhd0ztlucu/Barber%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/2ju6l6f4ksf56nn/Barber%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/z5da4xcqth4w1bn/Barber%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/nx7eutxe4ngoosr/Bar.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/hd0vczj6n6xrm84/Bar.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8qx9dlxonz2je2g/Bar_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/i1mdenjx1bbs6qw/Electronics%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kqecnq70b6jde6d/Electronics%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kfwr2b637bkwifl/Electronics%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zyaqwcg39o9dzfy/Music%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ce3qusz63bxzuda/Music%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/0o9dzvobb6j217f/Music%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/m1ihd8a21wtis4b/Flower%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lswldsqwi8azrhp/Flower%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ze58biougon2jcn/Flower%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/z65t7kutn2x2hhe/Funiture%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5zm4k4ymgkaspzf/Funiture%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/45669zt3yowvrii/Funiture%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/lwcna90ulhi6rl8/Sports%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dcmrwecrkns8slg/Sports%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/h8en6wpxdk6w918/Sports%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6gmyivttc7uvbvi/Public%20telephone.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kh1fyyssp7h5rti/Public%20telephone.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/j4k2d73xjhldzqt/Public%20telephone_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/snbacyrna3psl5a/Toy%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5cani8p27z0g0lp/Toy%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/6fuxz8hcqymimjq/Toy%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hkylnytikwc0sia/Clothes%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/27c6uufxqizd0jf/Clothes%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/zkoz9yaq2k0g9nr/Clothes%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xz1lmh55n6i06ea/Department%20store.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8pcipyqzoedmras/Department%20store.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/qgj22pw7cwwaec5/Department%20store_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/4cm0244mw3bm6lx/Bank.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/2snuaomcmtqnabl/Bank.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/k3a41ihybbz4wxv/Bank_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ncpagbkkxo5m7ru/Shoe%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/zor6xatqe0m9x23/Shoe%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/f7hbly90rwb8ftc/Shoe%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/rirna5lp6wyhfiu/Jewelry%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/25o4ranl4jbx9j6/Jewelry%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jcrtqtwod659roj/Jewelry%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/wbojjotg8czelw8/Video%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/39287de1fxrovv5/Video%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/dhc4lcxutftux3x/Video%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/97y68tvprb38hr1/Stationery_office%20supplies%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/0gj3jzetoh5e7xv/Stationery.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/pzhynrdcmmfzj4f/Stationery_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/cv3orfs6py8lwtr/Bakery.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/k620ponqheapmgk/Bakery.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/i4jj3isnm9iinw7/Bakery_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/l2lhgq527q3pp3y/Book%20shop.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ktmc68qixe1k8ww/Book%20shop.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/0pg9ohydozmaybx/Book%20shop_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ckssa26ykxlctng/Car%20park.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/vntg3fszx20jv9b/Car%20park.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9fndkkp2eecrx3m/Car%20park_mm.mp3?dl=1"
+                }
+            ]
+        },
+        {
+            "title_en": "Supermarket",
+            "title_mm": "စူပါမားကတ်",
+            "img": "https://www.dropbox.com/s/5b6kxhlsg8oama3/5900478.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/gm80w4fivcnicui/Scale.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/tff4pq20d42kwxj/Scale.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9c5vcla41hcyw64/Scale_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/kq1vcqsn4jvl4dh/Fruit.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dfqn3swyo3exf37/Fruit.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/do7cslmr3xkv84i/Fruit_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/v2xlycmxtn0df0u/Vegetable.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/0r4symnglwir8lv/Vegetable.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/dyzkamy16stw8e2/Supermarket_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6e0hjrjbg0yrrjl/Cake.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/hjmqwbprym51n4l/Cake.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/y0c1czfd8hynm6w/Cake_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/psr8rjb5thktxmz/Meat.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ehjtcbls95r0rrg/Meat.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/s64pf8f7gqn29yr/Meat_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ic6h7q4a4l6c146/Canned%20food.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/g5fkksvp8s5z5q6/Canned%20food.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1wrcv5lubp1r5by/Canned%20food_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/c64pw0m3mgtevlc/Baby%20food.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/buna8gqad6yfpld/Baby%20food.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/oyo76nhbd2wa0ie/Baby%20food_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/31olr40ym9c5tza/Cosmetics.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/cl5qu2ql24abd59/Cosmetics.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8c2a0hctuaf4zf2/Cosmetics_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ys350xt10uw5bff/Soap%20powder.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/eqjc68we64k5v02/Soap%20powder.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ci94gkwfimuf7pw/Soap%20powder_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/018e7dirlrylfvp/Cleaning%20materials.jpg?dl=1 ",
+                    "voice_en": "https://www.dropbox.com/s/eqhny04949j6r4a/Claening%20materials.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/awskuijovfz34to/Cleaning%20materials_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/bg3s60qqqord28w/Frozen%20foods.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/b48t3vuj8xf9joj/Frozen%20foods.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/0sxg2quxtdcaepd/Frozen%20foods_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/i65a3frtcbxsze2/Biscuits.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/4nlhk0uibn637sx/Biscuits.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7gp11bfjozox4sp/Biscuits_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0n7lyuqveavr111/Shopping%20trolley.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/pu6al1plrgy9le6/Shopping%20valley.mp3?dl=1 ",
+                    "voice_mm": "https://www.dropbox.com/s/hufz7fudz7dnkiz/Shopping%20valley_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/yh04pltk6oib4ko/Video%20counter.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/l576pv16hwenb35/Video%20counter.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2vkfl5culolij8g/Video%20counter_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/frb9qa5nzdck2ce/Manager.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dk70gieeundajgv/Manager.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/fjljw439t2nrdbi/Manager_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/x97ay3anbm4j461/Shop%20worker.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xheix1g35of784a/Shop%20worker.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/fvx2vkydb7kc100/Shop%20worker_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/w7i3mzwfhktt3pj/Customer.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/hncoatwo4wevx18/Customer.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/3qfza3j51e3xl1f/Customer_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/jl8v6dsez1qsb9d/Cash%20register.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/6v5vth8o6g9apqa/Cash%20register.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/081voqu7nueinwy/Cash%20register_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/f6dpo14trlakwxy/Shopping%20basket.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/jnhom3x61oupaho/Shopping%20basket.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/nqblyautdp41jgp/Shopping%20basket_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/qi670fi6zhl0ttw/Shopping%20bag.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/loy4cf5ddtpbcmo/Shopping%20bag.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/c2vcjkiwbo6qj2y/Shopping%20bag_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/640br9opbw8b67u/Cashier.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ftkdp9nssmx4ybv/Cashier.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ddmlkz4ek2uv57g/Cashier_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0b1uih70r2xxcm1/Receipt.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ydaxvngzowtngo4/Receipt.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cxl9qxnmui4w0ge/Receipt_mm.mp3?dl=1"
+                }
+            ]
+        },
+        {
+            "title_en": "Village",
+            "title_mm": "ရွာ",
+            "img": "https://www.dropbox.com/s/vp0nnz18aahlv4k/4946864.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/mww7gijf9z26o8q/Tree.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/num67jguwtw6yip/Tree.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/d2q54l1knzfrhbq/Tree_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0g64gz5iatgites/Woods.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/7bqffm5ntd4pb8r/Woods.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/mepoo7dxfedjgmn/Woods_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/srt6oyoo9dy4xu4/Road.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lla3ovsngcfae4m/Road.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/lixxsfq5hywxxv7/Road_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/36526trub4hkadt/Stream_mm.mp3?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/zzv19jtziba1a26/Stream.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1fj69jjjiwiw8ji/Stream_brook.jpg?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/8dhpz0omie2lguw/Bridge.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/okxlyjtfavhfcta/Bridge.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/wrns8cbkaj9y1ed/Bridge_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/9a5wnqlolfjxfqh/Grass.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/80lj37lplgp56x7/Grass.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/165ewfiplunynbn/Grass_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vmiiuypp2drw1xr/Cloud.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/yb0wrdelxrivwr7/Cloud.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/p4nmofcclvil5k3/Cloud_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/om2e1kndihggc16/Sunshine.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/zhqr32nh9bnb0pm/Sunshine.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ddtitypewj1bvtg/Sunshine_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/g9krzv5x341utbx/Sky.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/wch1b8e35ft4sf2/Sky.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/myngiqifn5fbg0e/Sky_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0xgsrd5g3ynz1f2/Lake.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xlvrfvgwtywrm68/Lake.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/dboezgdn57y24ns/Lake_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xy3f3n21f6n4gri/Picnic.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/58u82ntj9llfrxa/Picnic.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/20apzvx5x0jss5a/Picnic_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/by149yaef27e092/Farmhouse.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/od9jl2x6mt4olvf/Farmhouse.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/50fl9to0k517bfy/Farmhouse_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/33r9fd9wpl6ohr3/Bin.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xmtx4izrrlpxiil/Bin.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jtljeeje4yv4p9n/Bin_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2d52bdc5s87yuhb/Barn.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/6b4i8fs29zscu1q/Barn.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/vchj90slj59d6mm/Barn_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/3zwbfng3ojt6jwl/Silo.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/fnwllavg0h1hngi/Silo.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/alyexqkme7wl677/Silo_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/pd6fp1yfpti6ylx/Field_pasture.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kt5wfr96nb0x340/Field.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/fi1pwm0qyq36kkm/Field_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/9olpqq55j04sib2/Crops.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ja8k2rhpc6lvhte/Crops.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ayu4lum1fe9u3w2/Crops_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/18m2cy8q00drpux/Harvest.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ofr0pl46nnndk62/Harvest.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/tcw3hfubczvp096/Harvest_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/rli2zlh0cwk9lfj/Fence.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/d459wwko08qneoh/Fence.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kvi5hgtkedam292/Fence_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/h0s1ouat2enxb6v/Farmer.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/b51mzsptb9wtqg3/Farmer.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/hzvohrlq3ow2akx/Farmer_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/c9k304gbwaczo70/Orchard.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/m7vtd1u3lg3boga/Orchard.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8c0tuvdqwvj1j2g/Orchard_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/e917gastqntc021/Well.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/a4ncjte4wz8o4rp/Well.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/w8bto25ip8tu2dy/Well_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/mlqkgatnk63o8zg/Tractor.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/s40v7887o5850ag/Tractor.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/imqbfezbl1h5lab/Tractor_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zdv6ubiabyjkh42/Plough_plow.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lox732r9j7r43lc/Plough.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7s7ujatsyng441g/Plough_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/jjhna29xmd6xnzl/Horse.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/98b3l56fnuqw1lh/Horse.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2lnl2ka6cut4bbo/Horse_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/w97tl1sb1w4qj6d/Cow.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ckuoptvjf38k2tj/Cow.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/lu2mypsl9qnbgyt/Cow_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/kv5tkqlo2h4cx70/Sheep.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/x0ipz6emhnqx5l6/Sheep.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7y434e0g4n5g0vc/Sheep_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6fo5o66d1lurgxq/Goat.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/scekd453ngmu9bh/Goat.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/6z6lffflb7oymdr/Goat_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/jqgty7fdl116u3c/Chicken.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/nwhge8enztxnx2l/Chicken.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/hrw653cev8hpyaj/Chicken_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "",
+                    "voice_en": "",
+                    "voice_mm": ""
+                },
+                {
+                    "photo": "",
+                    "voice_en": "",
+                    "voice_mm": ""
+                },
+                {
+                    "photo": "",
+                    "voice_en": "",
+                    "voice_mm": ""
+                },
+                {
+                    "photo": "",
+                    "voice_en": "",
+                    "voice_mm": ""
+                }
+            ]
+        },
+        {
+            "title_en": "Profession",
+            "title_mm": "အလုပ်အကိုင်များ",
+            "img": "https://www.dropbox.com/s/euupcqbiuwxf5ew/thumbnail.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/mvh75xm3wvlsvyw/Hunter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/66y3x4cgxk94qhe/Hunter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/to74ttdjay5dts2/Hunter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/v295vp62zwv48w9/Magician.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8bj1c7k8ebo0jwo/Magician.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/n8iw9g88t6mu43m/Magician_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/m6few2h3mo21jsl/Interpreter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/o2drd9aycld6v4y/Interpreter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/eczrxmpktogo90n/Interpreter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/bisowukh8gtld6l/Musician.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5voyz45fmns4xod/Musician.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/f01zbv91jjo9sfv/Musician_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/fg65sv5x1ura68c/Composer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/yx714r4gmawghjo/Composer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ya6bb0v7jvs0x7f/Composer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/9h2u61ze6w40y9w/Surgeon.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/zirp3tf00dsi1ku/Surgeon.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/u9tdbfdadjvcwdi/Surgeon_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6yyfoh1414o3f8w/Cartoonist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/f7twi1hg4hzggt0/Cartoonist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/09bkqwxna8lrpf1/Cartoonist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/smv6warf6yatmb0/Street%20Hawker.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/vher4qx1x2hqinc/Street%20hawker.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/dfy4m52j2ousthf/Street%20hawker_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0jhhzwlyqlren4z/Palmist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/r8vz1eu0lyogifn/Palmist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/og2iuys8xxqsvp2/Palmist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6w4dms12ysynhfx/Cameraman.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/jqf7lg2hicgqkby/Cameraman.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8cfrtfzhrpy8th3/Cameraman_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/28y7ttuj1o7qz93/Photographer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xptoa86fbb1jnyf/Photographer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/qlzbwfwr28frhd6/Photographer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/wmylp5krrjkpkta/Dancer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/izp9cf6kz2dnl5i/Dancer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1tmsnwpp0mmirvs/Dancer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hiln621e5duup0u/Writer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/twyq5avlp4469gz/Writer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2oq1pv45400rya0/Writer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/3nt20kqc96lzi0m/Trader.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dxxfjugs1bho0m3/Trader.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/yk5t39rdms6xapv/Trader_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/w40nsrk7nne1j53/Broker.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/wdndk8uwq0gicd5/Broker.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/qwxfl999ouilwtl/Broker_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/dutm6nrqtfou7p2/Officer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/2kschy76p0rxk3c/Officer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4u7fb8tvofimem5/Officer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vjtg1ty6uu4lvdx/Judge.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/7fqicjo5gyocz1n/Judge.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/rtk0rfnfjw6637p/Judge_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zbvxu80b9mnhchk/Nurse.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/t1braavq23bhawf/Nurse.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9s9z5wukrdyze6o/Nurse_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/trb4onzoa6y9cg5/Model.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/o4ppyn7mj1kpwu4/Model.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/huv15sp8qksmu99/Model_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/gasblbk6x98ymv7/News%20announcer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8fo5c9j9aae7m8r/News%20announcer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/p2jok63n0ewrh85/News%20announcer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6tns7hedd1hshwr/Artist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/91a1d65fsyhe55m/Artist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/eucb1lh0ym2nzme/Artist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/8wz5sd5ufppp7co/Reporter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lgd3i9a7j2d1oql/Reporter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/y9u62x49oib2wfc/Reporter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/meu6moplbpxrci5/Secretary.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ubs4n07i2gyhy5p/Secretary.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/zi3ujzf8k3wygli/Secretary_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0vhohuqkqqx84m9/Florist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/qa2b1nmaa0cx3z4/Florist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/d1hafvm6g89vwon/Florist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/jgmz31fgwashrho/Pharmacist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dpa0fajvrrr50zt/Pharmacist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/l5s6jn39lxwr8on/Pharmacist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vjmfl379h1c23qe/Factory%20worker.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/c2ot19iklobn2ra/Factory%20worker.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/qwkgmfowmf4rr91/Factory%20worker_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7u3fev0b60kh8xo/Painter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/aqchg61rfun88c2/Painter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1g89ms7h3swq7eq/Painter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xjclvc9k5hosbr6/Gardener.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/tif6tb68b8kx1yf/Gardener.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/iy13g5czwyb747e/Gardener_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/4l4htvj5y1wxy69/Teacher.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/q90d7ffhmzm35km/Teacher.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/pibhscee3ley1s2/Teacher_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/b1zcwep94fv7sqw/Travel%20agent.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/0p1lvzme87t96gf/Travel%20agent.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jg8le2owtet8zz5/Travel%20agent_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hm0kh1sz74h72iz/Dentist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/4r7p87i379mijt5/Dentist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/5oqihnvopeophe0/Dentist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/lulgj7l19mtolno/Doctor.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/pji2lrgxfq0svcl/Doctor.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/raon75qr9ekrmyh/Doctor_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/i2j5j8wmtnorf8f/Fisherman.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/bsfuu6qwdzez22w/Fisherman.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7wq43wom9adf3q7/Fisherman_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/3yv2lo6qte0330r/Housekeeper.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/68d06d67y9273sq/Housekeeper.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/c1zmioojtcm209h/Housekeeper_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/qzzh164n1v0vje9/Firefighter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/rzs4jvxymd4zhtp/Firefighter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/47shj2zu2pkkprv/Firefighter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/q9amrun4w3zwppc/Mechanic.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xgf90cl92iqkijp/Mechanic.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/e2msvjil4y521nc/Mechanic_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/j4h96qoexouswpi/Farmer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lki5lehvoi5a7sg/Farmer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/m03fzr5m8jpnlgq/Farmer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/54fvimgk9195tny/Soldier.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/3no6z96qkbdg9vy/Soldier.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/njixpz781og31cl/Soldier_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/05fbzh7wmvd4o59/Sailor.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kny0u56lwoh5bmk/Sailor.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/f8bcs4e41imorrs/Sailor_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/05yvmcv1ywe7k2f/Police%20officer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/cf4e48bd9gg7sxg/Police%20officer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/l8jo4mstw7d0rcj/Police%20officer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/246eb9g32w1dnip/Pilot.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/eegqd6rrt6voo04/Pilot.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/db4co64mnj046kv/Pilot_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/6ymvliynnv2uij1/Construction%20worker.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dkc1fe6r7b55gtk/Construction%20worker.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/q6gpy2twqgr3t4h/Construction%20worker_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/wcq2fl0x56sh44l/Engineer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/sx4e9ydv5deh9hm/Engineer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/m5ann4oiyafz25n/Engineer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/3ni66m56yqan7qn/Security%20guard.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/n5x36je8lewzcze/Security%20guard.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/p9cmxq2e6cbpnxq/Security%20guard_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hqn5js5wuz7rxc8/Accountant.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/gdocrg4r342vdaf/Accountant.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/y7w0veplecrj22s/Accountant_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/pjq4e5ilo7m8ion/Locksmith.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/gaggwl3a334cety/Locksmith.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/07a29bxoi22e2r1/Locksmith_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5jf25y8jmofcby2/Electrician.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/r7gswr2nyicd4qf/Electrician.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4k1itrrd84ir0m2/Electrician_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ki72auwetp2zau4/Salesperson.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ziqw8kt676e6zez/Salesperson.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/17zc2901ucjxuk0/Salesperson_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2ukzvqfht1rs73j/Tailor.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/v4nft0bexotgseg/Tailor.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cwfttmmfagltthz/Tailor_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ygtu6uyh4p3647t/Waitress.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/0okcrac5m59kzn3/Waitress.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4xvcpo1u1s6evzr/Waitress_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/syh6ooqwsybae54/Waiter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/iz9dtbzbhiwi4ox/Waiter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ob9et01by0u13ej/Waiter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7oj09xklf2kcc9o/Plumber.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/es6y5x1mvqb2eee/Plumber.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ypkg42tzfnf5p6c/Plumber_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5shshs8rpoge6nj/Carpenter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/dmzjztgomyukup8/Carpenter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/wh6h7wpmzwoeny9/Carpenter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/ni3oi1fla9qiseo/Barber.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ztjhl2p37jm4987/Barber.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/bt6utwir2zhjjap/Barber_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/4tvcu71kz2xzi1r/Soccer%20player.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/9mwcw74fczvhkzi/Soccer%20player.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/lldkglemk1ws3e2/Soccer%20player_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/n5lfuj5usd1kjg8/Vocalist.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/p6ni1feb63ab0mt/Vocalist.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jo65h9cbowlchdi/Vocalist_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/cbndrrzsc2n7emn/Lawyer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/n06iz3txax3pf4y/Lawyer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/eblehq30s7xf3pf/Lawyer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0f2kt5yqdiloc5y/Foreman.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/skfholq38rko98d/Foreman.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kys3qhxp1y2e08i/Foreman_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/e6l6aiatevf2r43/Baby%20sitter.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8igo7xc9l9mcbup/Baby%20sitter.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/vv8qwagwfw2d845/Baby%20sitter_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/shr27xuo6ll6j06/Bricklayer.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/fypzt1vxqbkn78x/Bricklayer.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/b90yul9x14iqjdg/Bricklayer_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/a5ui7x0wqpi9tne/Computer%20technician.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/809und3purvqiw1/Computer%20technician.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/0ece4m7yg9qvuq8/Computer%20technician_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2uddzg3uyshsasc/Driver.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5vohuc4g4hsksjm/Driver.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4ydn5k52k6sw3tx/Driver_mm.mp3.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/a4aqoj3p1c1kevp/Cook.jpg.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/jr9rr2yt3u5sg1g/Cook.mp3.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/uo25s1qx11u3sz4/Cook_mm.mp3.mp3?dl=1"
+                }
+            ]
+        },
+        {
+            "title_en": "Terrestrial animals",
+            "title_mm": "ကုန်းနေသတ္တဝါများ",
+            "img": "https://www.dropbox.com/s/2s032y6vk9959fg/1998610.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/rsjamo4g3pocid6/Elephant.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/joeelhcekxz0ivj/Elephant.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/v5kst0aqy0hnadd/Elephant_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/j4yjlw1giurie0a/Tiger.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/tz6iogp3jkxhu45/Tiger.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/tugiw7prtswclk2/Tiger_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7o3jhf1fv0pbi7h/Lion.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/snl3zvmz9lb0iav/Lion.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/g994ugjikaqxyna/Lion_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/fubeng1lm7p0ee5/Leopard.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/nsv6ttwiwtrq321/leopard.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ig6xntyp122br1m/Leopard_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/bjaisy2o028mh8r/Horse.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/1fuy3caf0qcceiv/Horse.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ly7ga5xc7wn2gtz/Horse_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/umuyxexexdqrazx/Mare.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/c0ozk209eb1n9tt/Mare.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/e7u81lq91s7j9wu/Mare_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/npze46n02beb5f3/Stallion.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ejjz5vesdsmnoyx/Stallion.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/gmgxxeba6cztb5v/Stallion_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/qxvv7o4qrwaje1u/Zebra.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ve54h4a82r01sz3/Zebra.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7ud1h8gxxziybfc/Zebra_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/gwywh75o16xcn97/Ass_Donkey.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/yezuzuiyk8jk248/Ass.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/51zjp806h0frs68/Ass_Donkey_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/molgj4eem67dng6/Camel.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/31kvyjgzvwu133n/Camel.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/n6ic5zvocjfnqdh/Camel_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/3j121qo62i6y676/Giraffe.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ph7evng34l9jy91/Giraffe.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/wjzqvxo3ystbqdk/Giraffe_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/atq6wou9o61yu7r/Ostrich.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/qwskjmp59ay2tdp/Ostrich.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8s3w72fue3j5uox/Ostrich_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hgq1zimgblhlv7p/Cow.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/9tccd23ayo8g2c0/Cow.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/esxpn774nfhrtug/Cow_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/v9nlnyr2ecc3zld/Ox.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/59nz5nwqutmwv7y/Ox.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cs6ameyxr9cqbzs/Ox_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/cfum4x4etnhumd6/Bull.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/t2g1is2pkgpfchb/Bull.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kk6flrbbzu82atq/Bull_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/28ao6add4k4gkrb/Mythum.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/trvkbnd572nenqt/Mythum.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ebz2ap0u5a1y0l0/Mythum_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/kbabuzs1f1qqbn3/Buffalo.JPG?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/z2tqkuz4ikhsl6n/Buffalo.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cavpfzby86136js/Buffalo_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/krxcfh07183is2q/Goat.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/sql3nry395vunsd/Goat.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/7cx7pyuubsv5u3f/Goat_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/rctklu4cvbg0axu/Antelope.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/yzlibncdubf7n0h/Antelope.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/y4p562ub6gu801o/Antelope_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/sujgwomco1j5bkc/Sheep.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/y01zeqr9bt9ktvy/Sheep.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/iavjujatp835ewb/Sheep_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7vg62d1ww2qxr57/Rhinoceros.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/j9a7o2bbwvx5zgt/Rhinoceros.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/euv79qo3rtbsv5v/Rhinoceros_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/mx1p3ym2i2g9myw/Hippopotamus.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/fazomzf9go9t6ix/Hippopotamus.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/zbdgzpg7sczu1vn/Hippopotamus_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/fx8agek7a8f3r28/Boar.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/hmxx4bds2c2j5gm/Boar.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8ti8nehgxebkpmr/Boar_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/06epwuersuxzy3c/Pig.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8jvzyoixu2x7i7b/Pig.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/hg00lbn3zddbji8/Pig_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0jkpg62yk40jrky/Bear.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/k9umtjq9aylotr6/Bear.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/u3q8tzljk69byd9/Bear_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/q3ix55nxrj2tp6h/Ape.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/9ep364jipiwk4zb/Ape.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/617fm1j36uqf85j/Ape_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/8lyalkh9wsyhcoo/Monkey.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/1oowfsjpyxl3fr0/Monkey.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9jx2rl5y0e6bt8a/Monkey_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/pedtpxyzapviqfl/Chimpanzee.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/xzwyyya0jwlkj9l/Chimpanzee.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/k2fgnkmblatwpd6/Chimpanzee_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5x85pfddi3hafu0/Gorrila.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/i3czz3c3mvt1mbu/Gorrila.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/x1vj599g97kyp3w/Gorrila_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/la6ejy04xdzjqad/Squirrel.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/d2ff4ffzl2js75s/Squirrel.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/rw7onqqg41njrq6/Squirrel_mm.mp3?dl=1"
+                }
+            ]
+        },
+        {
+            "title_en": "Vegetables",
+            "title_mm": "ဟင်းသီးဟင်းရွက်များ",
+            "img": "https://www.dropbox.com/s/qh0beqzs0kj504f/2153788.png?dl=1",
+            "vocabulary_data": [
+                {
+                    "photo": "https://www.dropbox.com/s/brbqbcncqq70bv9/Broccoli.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ost5kcjetwz9ihc/Broccoli%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4p250lyb16w1eul/Broccoli_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/s7n5hos3v2jaf73/Spinach.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/54ewyi9j5sgkgh1/Spinach%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1meio536xq9x54r/Spinach_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7mszmvmuio9ba1x/Parsley.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/l83m1cq5ktrjy9a/Parsley%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/f2qvw63ufpoxttu/Parsley_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/qkuy5ht0ky52lxq/Coriander.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/2zxdjzoiiz8q6qt/Coriander%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/0vmz0t2si9facyt/Coriander_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2oh10cj1i7low3l/Radish.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/rdnzjtqqrgt8wem/Radish%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/mden2myciqtnfph/Radish_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/divi5ozs963me47/Carrot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/h3331aslzznxa2r/Carrot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/vtzu6dcteeuu6p8/Carrot_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/xtr1gjbhjixl9jm/Onion.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/pny40d6jilmokfc/Onion%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/rjr3s0svhxyjyya/Onion_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/nrx4pmoil54ci4z/Garlic.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ob2q8ba4yuprmjm/Garlic%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/uaxruefbhqh57mt/Garlic_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/j6ng1a4lj841whc/Asparagus.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/l0cerkpxjjfi6nc/Asparagus%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/o1irbg3fb3xzsml/Asparagus_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/11ngcnnu9vcmm7v/Cucumber.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/66td0s2zypkshob/Cucumber%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/x7paj65rb5tx2y2/Cucumber_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vaw9hqrkazmzmoi/Pumpkin.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/r7raupcd197lwc9/Pumpkin%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/hjur6vrqfx2j4kd/Pumpkin_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/j1v5ph6y6x88hj6/Chill.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/8nz93b3ffoc9qgl/Chill%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/qvhk4g93pq6w60d/Chilli_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/b85bv3nvg34whon/Eggplant.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/oeno3za9jek7mh6/Eggplant%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/abscfjyx60ao83u/Eggplant_mm.mp3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/du0fsk9ayhtijx2/Tomato.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/088t7hwrvgeukda/Tomato%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/5cz6itz5hjrjze2/Tomato_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/dd3a3y0fnze0th9/Jew_s%20Ear.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/mkwe02lpdix68fn/Jew_s%20ear%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2ks85ev358o54b3/Jew_s%20Ear_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vdlahx7d2nq9zex/Sweet%20Potato.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/i0y0yi9xmik21e1/Sweet%20Potato%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/pgo9wyr7lrbsdel/Sweet%20Potato_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/h50ogs9owdye24b/Potato.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/rur06z78sksx430/Potato%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/wvqmt99nwjgl19o/Potato_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/c2gtl777b7wj49k/Mushroom.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/7mbcy3t8x0ysnst/Mushroom%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/yh2lb5lbmf596zw/Mushroom_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/i8ui0rkswzsxms4/Bean%20Sprout.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/mbkoot3lycx3ar6/Bean%20Sprout%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/4z6w7j2cpvqe5mk/Bean%20Sprout_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5e0295vy74l3zox/Long%20Bean.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/uernup0ax8qbdgz/Long%20Bean%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ydkq6zwnslspzmd/Long_Bean%20mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/9oczp0vaewsdcue/Lotus%20Root.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ofgwyebj4gp5xlt/Lotus%20Root%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2rysmutqeionw62/Lotus%20Root_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/v8aehzdscvbfnw8/Bamboo%20Shoot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/fbq4sr6u3s01k4k/Bamboo%20Shoot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ehzm2wd936hl348/Bamboo%20Shoot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/9ncrof0j2nylklf/Pea.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/2dmonb4szufor1n/Pea%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/c456e5e9jsun7yu/Pea_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/dpri0pkagcppa6t/Okra.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/c3o7ztlg8fy8993/Okra%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/oa326fa0h4jl8os/Okra_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/y2qmpcfhwp5cgi5/Corn.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/19am44ne2nr9vre/Corn%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kglshc6w0j2b8io/Corn_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/itv3c60jeawx3qy/Ginger%20Root.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/e36hks3utapnnva/Ginger%20Root%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/owbcflgfscfxw71/Ginger%20Root_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/lyotcw09ibac2y4/Djenkol%20Bean.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/mpd78wfcbwifvz9/Djenkol%20Bean%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/msv9mr1gws3wbn4/Djenkol%20Bean_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/28pldk0tw92fqje/Bitter%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/wyh6smaqido2nh9/Bitter%20Gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/wdyq8zk28vfyvts/Bitter%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/u4ob4414ufip6xa/Leek.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/56s58ucr00a6kvp/Leek%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kxe7je8g6n3lz1f/Leek_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/g6zo5vorl3uaxke/Taro.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/n0hcqvr0d1j8t2t/Taro%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jp5v68hu9euo4lo/Taro_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/rku45e8nwu4wzab/Soap%20Acacia.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/qcibj3m60nm0xwq/Soap%20Acacia%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/l5q6gmghsvzsvb9/Soap%20Acacia_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zbam73g9umkv9fi/Chayote.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/lkrqsb88cc7uq44/Chayote%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/je3ve8c2z141cyg/Chayote_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/kb6x2cz805v4krj/Ridged%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/4joj930si6hzq8b/Ridged%20Gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/vvwb4wz44n8jqpw/Ridged%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/0va2wuciq3qlxju/Mint.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/rkys0el8gums7bh/Mint%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/x68kpnnw344wtpx/Mint_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/4pt1mut3v830n3y/Mustard%20Leaf.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/merv9hl5eh5wm8m/Mustard%20Leaf%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/tfnkyz4jwesb7g5/Mustard%20Leaf_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/zydmt76lowlpxfj/Roselle.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/22aq16duz15r56j/Roselle%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/su0h575u916ws9x/Roselle_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/4f1fetxh1n2zhkz/Drumstick.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/flb4t50ksg49fi6/Drumstick%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/jpopz2rfy2s4ait/Drumstick_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/hor5loy6hu65bm4/Winged%20Bean.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5zvvnvx4g5t5h3o/Winged%20Bean%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cwvcmn0wbscm87p/Winged%20Bean_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5ic42se3vkukt3s/Bitter%20Melon%20Shoot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ne5bcgh1nuaezie/Bitter%20Melon%20Shoot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/x2t83mnm7hzs6bt/Bitter%20Melon%20Shoot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/llj5td2qkzdaap4/Chive%20Root.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/y7so43y8g45wg9n/Chive%20Root%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/zmgscmv5mceoa6k/Chive%20Root_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/f8tzugnzphwhkwc/Lemon%20Grass.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/iknrtuctubgakys/Lemon%20Grass%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/kuioragcrl9z9b9/Lemon%20Grass_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/k6eeef818g0z91c/French%20Bean.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kbv1y2repckxx0t/French%20Bean%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9ldufl10mrx9j7s/French%20Bean_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/5sdq7e7zot4syln/Arrowroot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/1wvlqfss5fe1fnf/Arrowroot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/nzzahpq0j3q0b8a/Arrowroot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/dwrczwcjfyljtx3/Myrobalan.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5um5965poa71e3f/Myrobalan%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cc221mw3y6temft/Myrobalan_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2llk2y2qo69mz8s/Bottle%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/c1gfqdl62q8oo3a/Bottle%20gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/v0dmlsimxfc7gtw/Bottle%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/mgt0863esas7tvg/Snake%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/n1fu0f3yijqio0o/Snake%20gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/z94o3axsp9ck8sl/Snake%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/15lpgbdnt9kymnp/Basil.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/ho2jzfg7ea5pyd1/Basil%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/1qbbx5mijyxv7ux/Basil_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/l5kd04doy61puk2/Fermented%20bamboo%20shoot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/9lz82mweoag83o4/Fermented%20Bamboo%20shoot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/371p7c2lb4xt1is/Fermented%20Bamboo%20Shoot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/qil0yydk0xvkbo4/Citron%20Leaf.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/s2cucgb30nyo5a3/Citron%20Leaf%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/6kt1am15cerszah/Citron%20Leaf_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/imz0ud5aqmonznt/Kale.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/m56k1sme2zrozg7/Kale%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/9yp35pwqd9ef4da/Kale_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vdsynzkjm4d4end/Ash%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/5oh918ts762yink/Ash%20Gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cb1ncir4bi8lc9g/Ash%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/s0shhac7x8kmjfj/Curry%20Leaf.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/kcn9x2qbxaibs09/Curry%20leaf%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/k4d9e8exk1vphyc/Curry%20Leaf_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/v5kez2mttht2crp/Calabash%20Shoot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/z1ovqakecpxlaqb/Calabash%20shoot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/6q2qxcebfpld9pk/Calabash%20Shoot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/iu96t0apj3s4opz/Chayote%20Shoot.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/gou2ums6cgod31y/Chayote%20Shoot%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/8s65ydwtqarxegr/Chayote%20Shoot_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/7ln6ipcftjrfnru/Cotton%20Milk%20Plant%20Leave.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/uspev0wo5btnlq1/Cotton%20Milk%20Plant%20leave%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/z4lz1rtsut63e1m/Cotton%20Milk%20Plant%20Leaf_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/2ulucx4n3b32yac/Water%20Spinach.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/aum9q34804lamw8/Water%20Spinach%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2rzf2odhr47gr7f/Water%20Spinach_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/vypbjn35pof9x4h/Wild%20Snake%20Gourd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/vof1w3gclsnykvl/Wild%20Snake%20Gourd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/cvjcypvavd1cpm7/Wild%20Snake%20Gourd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/lrjvih5e9r15kbk/Bean%20Curd.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/sdl47d971al0yrs/Bean%20Curd%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ii9qa6t7x7q7tyj/Bean%20Curd_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/owbs0tjx7fx34yl/Pennywort%20Leaf.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/eduxc99yjad7y8j/Pennywort%20leaf%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/fwl9lbsslst1tsx/Pennywort%20Leaf_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/35rcgw7kuylr8xp/Trumpet%20Flower%20Fruit.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/scsteh3c1hv5hx5/Trumpet%20Flower%20Fruit%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/2dyxdjp4s8envn7/Trumpet%20Flower%20Fruit_mm.MP3?dl=1"
+                },
+                {
+                    "photo": "https://www.dropbox.com/s/dyllb3obcsybifl/Bell%20Pepper.jpg?dl=1",
+                    "voice_en": "https://www.dropbox.com/s/b2a5cb40vy2bm11/Bell%20Pepper%20.mp3?dl=1",
+                    "voice_mm": "https://www.dropbox.com/s/ptpz48ne0kyabd9/Bell%20Pepper_mm.MP3?dl=1"
                 }
             ]
         }
