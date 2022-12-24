@@ -1,92 +1,1678 @@
 {
-"success" : true,
-"message" : "success",
-"data" : [
-  {
-    "question":
-        "Flutter is created by ..........",
-    "options": ["Apple", "Google", "Facebook", "Microsoft"],
-    "answer_index": 1
-  },
-  {
-    "question": "When google release Flutter in ........",
-    "options": ["Jun 2017", "Jun 2017", "May 2017", "May 2018"],
-    "answer_index": 2
-  },
-  {
-    "question": "A memory location that holds a single letter or number.",
-    "options": ["Double", "Int", "Char", "Word"],
-    "answer_index": 2
-  },
-  {
-    "question": "What command do you use to output data to the screen?",
-    "options": ["Cin", "Count>>", "Cout", "Output>>"],
-    "answer_index": 2
-  },
-  {
-    "question": "What is Your Name",
-    "options": ["Mg Mg", "Aung Aung", "Ko Ko"],
-    "answer_index": 2
-  },
-  {
-    "question": "Luffy born in",
-    "options": ["1997", "1998", "2000","2001"],
-    "answer_index": 0
-  },
-  {
-    "question": "Lyffy eat ",
-    "options": ["Gomu Gomu fruit", "Sand Sand fruit", "Fly fruit","invisiable fruit"],
-    "answer_index": 0
-  },
-  {
-    "question": "One piece animi is from",
-    "options": ["korea", "japan", "china","US"],
-    "answer_index": 1
-  },
-  {
-    "question": "Nami have _____ hair",
-    "options": ["black", "yellow", "blue","red"],
-    "answer_index": 3
-  },
-  {
-    "question": "sangi most like",
-    "options": ["ship", "car", "food","money"],
-    "answer_index": 2
-  },
-  {
-    "question": "Usoop has _____ nose",
-    "options": ["short", "long", "beauty","normal"],
-    "answer_index": 1
-  },
-  {
-    "question": "nezuko is",
-    "options": ["demon", "human", "zombie","vampire"],
-    "answer_index": 0
-  },
-  {
-    "question": "Demon Slayer series is start from",
-    "options": ["2019", "2020", "2021","2022"],
-    "answer_index": 1
-  },
-  {
-    "question": "One Piece anime's ocean has war of king ",
-    "options": ["1", "2", "3","4"],
-    "answer_index": 3
-  },
-  {
-    "question": "One piece treasure is exited in ",
-    "options": ["South Blue Ocean", "North Blue Ocean", "Weast Blue Ocean","Grand Line"],
-    "answer_index": 3
-  },
-  {
-    "question": "Chopper is ",
-    "options": ["Goat", "Dog", "Sheep","Deer"],
-    "answer_index": 3
-  },
-  {
-    "question": "Luffy alway wear",
-    "options": ["Hat", "ring", "gold","glass"],
-    "answer_index": 0
-  }
-]
+    "success": true,
+    "message": "success",
+    "data": [
+        {
+            "question": "venturesome means:",
+            "options": [
+                "easily influenced",
+                "finicky",
+                "daring",
+                "ruthless"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "blizzard means:",
+            "options": [
+                "beacon",
+                "notion",
+                "snowstorm",
+                "fighter"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "final means:",
+            "options": [
+                "terrific",
+                "speedy",
+                "last",
+                "rich"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "chef means:",
+            "options": [
+                "bush",
+                "cook",
+                "Sugar",
+                "Star"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "breezy means:",
+            "options": [
+                "faithful",
+                "airy",
+                "dirty",
+                "intelligent"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "wonderful means:",
+            "options": [
+                "marvelous",
+                "dirty",
+                "very tasty",
+                "absent"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "bunny means:",
+            "options": [
+                "noise",
+                "dried grape",
+                "rabbit",
+                "joy"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "belief means:",
+            "options": [
+                "sunrise",
+                "map",
+                "opinion",
+                "chip"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "mumble means:",
+            "options": [
+                "strew",
+                "mutter",
+                "occur",
+                "accumulate"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "surroundings means:",
+            "options": [
+                "package",
+                "environment",
+                "ten years",
+                "light meal"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "jump means:",
+            "options": [
+                "scream",
+                "leap",
+                "fix",
+                "escape"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "liquid means:",
+            "options": [
+                "experiment",
+                "sightseer",
+                "kettle",
+                "fluid"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "mix means:",
+            "options": [
+                "blend",
+                "yell",
+                "close",
+                "hurry"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "quiet means:",
+            "options": [
+                "utterly",
+                "almost",
+                "loud",
+                "silent"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "combat means:",
+            "options": [
+                "battle",
+                "tale",
+                "mistake",
+                "pupil"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "veterinarian means:",
+            "options": [
+                "military",
+                "compassion",
+                "speckle",
+                "animal doctor"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "burst means:",
+            "options": [
+                "regard highly",
+                "inquire",
+                "provision",
+                "break open"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "journal means:",
+            "options": [
+                "diary",
+                "school",
+                "news",
+                "priest"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "backbone means:",
+            "options": [
+                "doubter",
+                "theft",
+                "freezing rain",
+                "spine"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "roast means:",
+            "options": [
+                "capture",
+                "wash",
+                "bake",
+                "prohibit"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "complete means:",
+            "options": [
+                "go ",
+                "find",
+                "finish",
+                "loud"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "expensive means:",
+            "options": [
+                "delicious",
+                "bitter",
+                "lower price",
+                "big price"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "parasite means:",
+            "options": [
+                "one that clings",
+                "tree",
+                "motion",
+                "disease"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "ideal means:",
+            "options": [
+                "civilized",
+                "thorough",
+                "favorite",
+                "useless"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "attrition means:",
+            "options": [
+                "friction",
+                "decline",
+                "suffering",
+                "attraction"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "halcyon means:",
+            "options": [
+                "peaceful",
+                "motionless",
+                "gentle",
+                "luminous"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "refute means:",
+            "options": [
+                "hinder",
+                "disprove",
+                "frustrated",
+                "void"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "none means:",
+            "options": [
+                "tease",
+                "suspect",
+                "doubt",
+                "annoy"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "affront means:",
+            "options": [
+                "send",
+                "like",
+                "distaste",
+                "provocation"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "admit means:",
+            "options": [
+                "send",
+                "suppress",
+                "acknowledge",
+                "blazing"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "absolute means:",
+            "options": [
+                "come",
+                "perfect",
+                "confront",
+                "cover"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "abuse means:",
+            "options": [
+                "prude",
+                "sane",
+                "tender",
+                "curse"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "abandon means:",
+            "options": [
+                "serve",
+                "temporary",
+                "forsake",
+                "great"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "anticipate means:",
+            "options": [
+                "gamble",
+                "expect",
+                "horrific",
+                "mediate"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "accidental means:",
+            "options": [
+                "random",
+                "vigour",
+                "complacent",
+                "tremendous"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "absent means:",
+            "options": [
+                "trend",
+                "pretend",
+                "missing",
+                "converse"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "addition means:",
+            "options": [
+                "execution ",
+                "impress",
+                "say",
+                "extension "
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "accomplish means:",
+            "options": [
+                "achieve ",
+                "relegate",
+                "rejoice ",
+                "extent"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "alike means:",
+            "options": [
+                "surrender ",
+                "duplicate ",
+                "strength ",
+                "boorish"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "speak means",
+            "options": [
+                "swollow ",
+                "learn",
+                "talk",
+                "learm"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "small means:",
+            "options": [
+                "little",
+                "afraid",
+                "untrue",
+                "sad"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "angry means:",
+            "options": [
+                "scared",
+                "rich",
+                "big",
+                "mad"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "participation means:",
+            "options": [
+                "involvement",
+                "fascinating",
+                "together",
+                "chart"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "movie means:",
+            "options": [
+                "lid",
+                "couch",
+                "film",
+                "pad"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "begin means:",
+            "options": [
+                "start",
+                "contain",
+                "injure",
+                "hide"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "yummy means:",
+            "options": [
+                "unhurried",
+                "woeful",
+                "delicious",
+                "submerged"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "avenue means:",
+            "options": [
+                "alarm",
+                "kitten",
+                "pillow",
+                "street"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "combat means:",
+            "options": [
+                "pupil",
+                "battle",
+                "mistake",
+                "tale"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "tasty means:",
+            "options": [
+                "appetizing",
+                "distressful",
+                "not many",
+                "handy"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "farewell means:",
+            "options": [
+                "good-bye",
+                "recovery",
+                "font",
+                "small lake"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "remember means:",
+            "options": [
+                "crumple",
+                "sparkle",
+                "recollect",
+                "approach"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "autumn means:",
+            "options": [
+                "fall",
+                "cop",
+                "silence",
+                "portrait"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "certainly means:",
+            "options": [
+                "for sure",
+                "besides",
+                "luckily",
+                "under"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "entire means:",
+            "options": [
+                "fake",
+                "complete",
+                "exhausted",
+                "bright"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "permanent means:",
+            "options": [
+                "lasting",
+                "sick",
+                "unknown",
+                "holy"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "advantage means:",
+            "options": [
+                "kettle",
+                "direction",
+                "mist",
+                "benefit"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "lively means:",
+            "options": [
+                "mad",
+                "unsafe",
+                "treasured",
+                "active"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "feast means:",
+            "options": [
+                "gorge",
+                "outskirts",
+                "banquet",
+                "car"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "ordinarily means:",
+            "options": [
+                "certainly",
+                "afterwards",
+                "between",
+                "normally"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "seasoning means:",
+            "options": [
+                "young cat",
+                "authorization",
+                "spice",
+                "robe"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I got dressed [quickly].",
+                "I got dressed [quick]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "These are the best [apple's] in the world.",
+                "These are the best [apples] in the world."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "John and [me] were second.",
+                "John and [I] were second."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "There were three things on the [list,] bread, milk and cheese.",
+                "There were three things on the [list:] bread, milk and cheese."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It will take [an hour].",
+                "It will take [a hour]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Nothing is better [then] this.",
+                "Nothing is better [than] this."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is my [mother's] book.",
+                "It is my [mothers'] book."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The place looks [well].",
+                "The place looks [good]."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The bag of potatoes [is] over there.",
+                "The bag of potatoes [are] over there."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "[To who] did you give it?",
+                "[To whom] did you give it?"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It was [him] who did it.",
+                "It was [he] who did it."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It doesn't [effect] me.",
+                "It doesn't [affect] me."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "From the evidence, Sherlock [implied] who stole the diamond.",
+                "From the evidence, Sherlock [inferred] who stole the diamond."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is [John] and Jane's house.",
+                "It is [John's] and Jane's house."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Every boy tried to do [his] best.",
+                "Every boy tried to do [their] best."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The two boys were laughing [too] hard to talk.",
+                "The two boys were laughing [to] hard to talk."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "He likes to eat [fruit. Such] as apples and oranges.",
+                "He likes to eat [fruit such] as apples and oranges."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The dog, with her five puppies, [are] in the house.",
+                "The dog, with her five puppies, [is] in the house."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "People like my [hat, they] all say so.",
+                "People like my [hat. They] all say so."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The colors [complement] the mood.",
+                "The colors [compliment] the mood."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "You [were] great.",
+                "You [was] great."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "He [come] home yesterday.",
+                "He [came] home yesterday."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "She [did] it last night.",
+                "She [done] it last night."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "He is [real] fast.",
+                "He is [really] fast."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Is that [you're] book?",
+                "Is that [your] book?"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Unless [it's] too small, we will keep it.",
+                "Unless [its] too small, we will keep it."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "One of the [players] got injured.",
+                "One of the [player's] got injured."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The effect of the cold will not [effect] me.",
+                "The effect of the cold will not [affect] me."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is my [mother's] book.",
+                "It is my [mothers'] book."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "One of the ideas [is] to skip it entirely.",
+                "One of the ideas [are] to skip it entirely."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It was [he] who did it.",
+                "It was [him] who did it."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The dog bit [it's] owner.",
+                "The dog bit [its] owner."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "You may go [in to] see the show now.",
+                "You may go [into] see the show now."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I played [badly].",
+                "I played [bad]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The place looks [good].",
+                "The place looks [well]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "He gives me good [counsel].",
+                "He gives me good [council]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "That will [insure] that you win.",
+                "That will [ensure] that you win."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I am [loath] to go through that again.",
+                "I am [loathe] to go through that again."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Neither of the girls [have] arrived.",
+                "Neither of the girls [has] arrived."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Her story was different [than] mine.",
+                "Her story was different [from] mine."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "That [peaks] my interest.",
+                "That [piques] my interest."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Get your [coat, it's] time to go.",
+                "Get your [coat. It's] time to go."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I am going to [lay] down on the couch.",
+                "I am going to [lie] down on the couch."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I am [busy,] otherwise I would go with you.",
+                "I am [busy;] otherwise I would go with you."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Of the two brothers, he is the [larger].",
+                "Of the two brothers, he is the [largest]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The show, [that] was on after dinner, was great.",
+                "The show, [which] was on after dinner, was great."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I was there for [a while].",
+                "I was there for [awhile]."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The door [that] was on the left was the correct one.",
+                "The door [which] was on the left was the correct one."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Neither he nor she [were] there.",
+                "Neither he nor she [was] there."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Jane or I [are] going to do that.",
+                "Jane or I [am] going to do that."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I [lay] in bed this morning.",
+                "I [laid] in bed this morning."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "Let's be [discrete] about it.",
+                "Let's be [discreet] about it."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "I heard about [his] winning the award.",
+                "I heard about [him] winning the award."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "What [percent] of the time is he there?",
+                "What [percentage] of the time is he there?"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "(This is a complete [sentence.)]",
+                "(This is a complete [sentence).]"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is [we] humans who are responsible.",
+                "It is [us] humans who are responsible."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "The [women's] department is over there.",
+                "The [womens'] department is over there."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is [John's] and Jane's house.",
+                "It is [John] and Jane's house."
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Which is correct?",
+            "options": [
+                "It is a secret [among] the three of us.",
+                "It is a secret [between] the three of us."
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Mr. Smith is a very nice ________.",
+            "options": [
+                "purson",
+                "persom",
+                "person",
+                "persun"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "Please, sit down in this ________.",
+            "options": [
+                "chiar",
+                "chair",
+                "cheir",
+                "chare"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "The morning sun was ________ and clear.",
+            "options": [
+                "brite",
+                "brigth",
+                "brihgt",
+                "bright"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "London is the biggest ________ in Britain.",
+            "options": [
+                "city",
+                "citee",
+                "sitee",
+                "settee"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "I eat an ________ every day. Very healthy!",
+            "options": [
+                "appul",
+                "apple",
+                "appel",
+                "aple"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "There were four people in the family - two children, a father and ________.",
+            "options": [
+                "mutha",
+                "muther",
+                "mothuh",
+                "mother"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "The pirate made a map to find the ________.",
+            "options": [
+                "treshure",
+                "treshur",
+                "traesure",
+                "treasure"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "I like to go for a ________ every day.",
+            "options": [
+                "walk",
+                "wake",
+                "wauk",
+                "work"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "I have a ________ who is two years older than me.",
+            "options": [
+                "brotheh",
+                "bruther",
+                "brother",
+                "brutha"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "He paused to ________ his mirror in the car.",
+            "options": [
+                "addjust",
+                "ajust",
+                "aghust",
+                "adjust"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "You ________ take an umbrella with you if it's raining.",
+            "options": [
+                "shood",
+                "shoud",
+                "shuold",
+                "should"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "________ is on the 25th of December.",
+            "options": [
+                "Chrismas",
+                "Cristmus",
+                "Christmas",
+                "Crismas"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "________ is the day before Tuesday.",
+            "options": [
+                "Mondae",
+                "Monday",
+                "Mondai",
+                "Munday"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "His ________ was somewhere between twenty and thirty.",
+            "options": [
+                "aige",
+                "aeg",
+                "age",
+                "aje"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "She was wearing a ________ new dress for her birthday.",
+            "options": [
+                "fansee",
+                "fancy",
+                "fance",
+                "fansy"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "My ________ breakfast is tea and toast.",
+            "options": [
+                "usaul",
+                "usual",
+                "usuhl",
+                "yooshul"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "An aeroplane ________ to London every day.",
+            "options": [
+                "fly's",
+                "flys",
+                "flise",
+                "flies"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "I am very ________ on a Monday morning.",
+            "options": [
+                "bisy",
+                "bizee",
+                "peple",
+                "busy"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "The ground was wet ________ of the rain that night.",
+            "options": [
+                "becase",
+                "becuase",
+                "because",
+                "beecos"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "I have a ________ of shoes.",
+            "options": [
+                "per",
+                "piar",
+                "pair",
+                "pear"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "The car has a broken ________.",
+            "options": [
+                "wheel",
+                "weal",
+                "we'll",
+                "wheal"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "I will ________ you a present on your birthday.",
+            "options": [
+                "gift",
+                "giv",
+                "give",
+                "giev"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "I can wait ________ you get your bag packed, she said.",
+            "options": [
+                "whiel",
+                "whail",
+                "wile",
+                "while"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "The student's ________ were happy with his homework.",
+            "options": [
+                "parunts",
+                "parents",
+                "pearents",
+                "perents"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Tyrannosaurus Rex was a very dangerous ________.",
+            "options": [
+                "dinosaur",
+                "dynasaw",
+                "dinusur",
+                "dinosar"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Turn on the ________, please.",
+            "options": [
+                "lite",
+                "ligt",
+                "light",
+                "lihgt"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "I walked ________ the path.",
+            "options": [
+                "doun",
+                "down",
+                "douwn",
+                "doon"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Be ________ if you ride your bike at night!",
+            "options": [
+                "careful",
+                "caerful",
+                "kerrful",
+                "cerful"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "I like to watch ________.",
+            "options": [
+                "telivisuon",
+                "telivisun",
+                "television",
+                "tilevisiun"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "I want to ________ this mountain.",
+            "options": [
+                "climb",
+                "clime",
+                "claimb",
+                "cliemb"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "They played games ________ at the birthday party.",
+            "options": [
+                "happilly",
+                "happily",
+                "happilee",
+                "hapily"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "There were lots of ________ going shopping.",
+            "options": [
+                "peepul",
+                "pepul",
+                "peopul",
+                "people"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "A holiday, or vacation, is also called a ________.",
+            "options": [
+                "brayk",
+                "braek",
+                "break",
+                "brake"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "I had a very nice ________ last night.",
+            "options": [
+                "drime",
+                "dreem",
+                "dreym",
+                "dream"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "We will ________ a cat who is stuck in a tree.",
+            "options": [
+                "rescyoo",
+                "rescu",
+                "rescue",
+                "resceu"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "Today is ________.",
+            "options": [
+                "Tuesday",
+                "Tusday",
+                "Tewsday",
+                "Teusday"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "“I can’t ______ my passport. Have you seen it?”",
+            "options": [
+                "find",
+                "fidn",
+                "fine",
+                "foin"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "It was ______ outside so we could not see well.",
+            "options": [
+                "foogy",
+                "figgy",
+                "fooggy",
+                "foggy"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "“The weather is ______ today. Let’s stay inside.”",
+            "options": [
+                "awfol",
+                "awful",
+                "aufwl",
+                "aweful"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "“It’s a ___ that Peter can’t come to the party. I wanted to see him.”",
+            "options": [
+                "pitty",
+                "pittie",
+                "pitty",
+                "pyttie"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "The man ___ the basketball into the air.",
+            "options": [
+                "threw",
+                "threu",
+                "threaw",
+                "thraw"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "We used the ___ to go to the tenth floor of the building.",
+            "options": [
+                "elevatoor",
+                "elavetor",
+                "elevator",
+                "elivator"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "Every year, many ___ travel to Paris to visit its famous places.",
+            "options": [
+                "tourists",
+                "touristes",
+                "towurists",
+                "torists"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "Mandeep often borrows books from the ___ .",
+            "options": [
+                "libeary",
+                "library",
+                "libary",
+                "libray"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Masa put the pot on the ___ to warm it up.",
+            "options": [
+                "stoove",
+                "stobe",
+                "stove",
+                "storve"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "If we don’t ___ , we’ll be late.",
+            "options": [
+                "harry",
+                "hurry",
+                "hurrie",
+                "huarry"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "It might rain today, so bring your ___ .",
+            "options": [
+                "umbrealla",
+                "umbrella",
+                "umbralla",
+                "unbrella"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "While the teacher spoke, her students listened and took ___ .",
+            "options": [
+                "ntoes",
+                "nottes",
+                "nots",
+                "notes"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "They live two kilometers ___ from the train station.",
+            "options": [
+                "awuy",
+                "awya",
+                "away",
+                "awaye"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "The child was ___ because his toy was broken.",
+            "options": [
+                "upset",
+                "upsat",
+                "uspat",
+                "upsaat"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "You must have a ___ to drive a car.",
+            "options": [
+                "license",
+                "lysense",
+                "licanse",
+                "licennse"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "One day, I want to climb Mt. Everest. That's a goal I want to ___ .",
+            "options": [
+                "achiave",
+                "archieve",
+                "archeve",
+                "achieve"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "Jack ___ did a thing at work today day. He spent most of his time chatting with the secretary.",
+            "options": [
+                "herdly",
+                "hardly",
+                "hardely",
+                "hardy"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Weather experts have ___ that next summer will be extremely hot.",
+            "options": [
+                "pridicted",
+                "prdacted",
+                "predicted",
+                "predacted"
+            ],
+            "answer_index": 2
+        },
+        {
+            "question": "Lisa is ___ buying a pet but she's not sure what kind to get.",
+            "options": [
+                "considering",
+                "consedering",
+                "consdering",
+                "considaring"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "It is very ___ to shop on the Internet. All you need is a credit card.",
+            "options": [
+                "convinient",
+                "convenient",
+                "covenient",
+                "comvenient"
+            ],
+            "answer_index": 1
+        },
+        {
+            "question": "Diamonds are ___ , which is probably one of the reasons they are valuable.",
+            "options": [
+                "rare",
+                "rarre",
+                "rarie",
+                "raae"
+            ],
+            "answer_index": 0
+        },
+        {
+            "question": "John recently changed his ___ . He used to be an accountant, but now he's a real estate agent.",
+            "options": [
+                "carear",
+                "carrer",
+                "carrier",
+                "career"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "For a company to succeed, good management is ___ .",
+            "options": [
+                "assential",
+                "essantial",
+                "essental",
+                "essential"
+            ],
+            "answer_index": 3
+        },
+        {
+            "question": "I take the stairs in my apartment building because the elevators aren't ___ .",
+            "options": [
+                "raliable",
+                "reliable",
+                "relible",
+                "relliable"
+            ],
+            "answer_index": 1
+        }
+    ]
 }
